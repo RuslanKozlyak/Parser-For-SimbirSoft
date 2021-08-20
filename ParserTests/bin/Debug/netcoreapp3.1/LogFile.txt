@@ -1,0 +1,11 @@
+[18.08.2021 11:48:02] : The sentence was divided into words. System.String[]
+[18.08.2021 11:48:02] : The sentence was divided into words. System.String[]
+[18.08.2021 11:48:02] : The sentence was divided into words. System.String[]
+[19.08.2021 11:52:42] : The sentence was divided into words. Я,просто,тестовая,строка
+[19.08.2021 11:52:42] : The sentence was divided into words. Я,просто,тестовая,строка
+[19.08.2021 11:52:42] : The sentence was divided into words. 123
+[19.08.2021 11:53:12] : Parser wasn't connected to NonExistingWebSite.test. [An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.]
+[19.08.2021 13:47:35] : Parser wasn't connected to NonExistingWebSite.test. [An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.]
+[19.08.2021 13:48:02] : Parser wasn't connected to NonExistingWebSite.test. [An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.]
+[19.08.2021 13:57:21] : Parser wasn't connected to NonExistingWebSite.test. [An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.]
+[19.08.2021 13:57:40] : Parser wasn't connected to https://www.NonExistingWebSite.test. [Этот хост неизвестен.]
