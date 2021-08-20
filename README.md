@@ -6,4 +6,4 @@
 
 <h1>Инструкция</h1>
 1. <h2>Главное меню</h2>
-![Alt text](https://github.com/RuslanKozlyak/ParserSimbirSoft/blob/Parser/ParserScreenshots/MainMenu.png "Главное меню")
+![Alt text](//ParserScreenshots/MainMenu.png "Главное меню")
