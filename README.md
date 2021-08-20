@@ -6,4 +6,4 @@
 
 <h1>Инструкция</h1>
 1. <h2>Главное меню</h2>
-![Alt text](//ParserScreenshots/MainMenu.png "Главное меню")
+![Alt text](https://s1.1zoom.ru/big0/697/Love_Night_Moon_Trees_Silhouette_Two_Dating_576752_1280x853.jpg "Главное меню")
