@@ -6,4 +6,4 @@
 
 <h1>Инструкция</h1>
 1. <h2>Главное меню</h2>
-![Alt text](ParserScreenshots/MainMenu.png?raw=true "Главное меню")
+![](ParserScreenshots/MainMenu.png?raw=true)
