@@ -1047,7 +1047,7 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "SimbirSoftProj/1.0.0": {
+      "ParserApp/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
@@ -1055,10 +1055,10 @@
           "System.Data.SqlClient": "4.8.2"
         },
         "compile": {
-          "bin/placeholder/SimbirSoftProj.dll": {}
+          "bin/placeholder/ParserApp.dll": {}
         },
         "runtime": {
-          "bin/placeholder/SimbirSoftProj.dll": {}
+          "bin/placeholder/ParserApp.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.WindowsDesktop.App.WindowsForms"
@@ -4341,10 +4341,10 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "SimbirSoftProj/1.0.0": {
+    "ParserApp/1.0.0": {
       "type": "project",
-      "path": "../SimbirSoftProj/SimbirSoftProj.csproj",
-      "msbuildProject": "../SimbirSoftProj/SimbirSoftProj.csproj"
+      "path": "../SimbirSoftProj/ParserApp.csproj",
+      "msbuildProject": "../SimbirSoftProj/ParserApp.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4352,7 +4352,7 @@
       "Microsoft.NET.Test.Sdk >= 16.11.0",
       "NUnit >= 3.13.2",
       "NUnit3TestAdapter >= 4.0.0",
-      "SimbirSoftProj >= 1.0.0"
+      "ParserApp >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4386,8 +4386,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\ParserSimbirSoft\\Parser For SimbirSoft\\SimbirSoftProj\\SimbirSoftProj.csproj": {
-              "projectPath": "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\ParserSimbirSoft\\Parser For SimbirSoft\\SimbirSoftProj\\SimbirSoftProj.csproj"
+            "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\ParserSimbirSoft\\Parser For SimbirSoft\\SimbirSoftProj\\ParserApp.csproj": {
+              "projectPath": "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\ParserSimbirSoft\\Parser For SimbirSoft\\SimbirSoftProj\\ParserApp.csproj"
             }
           }
         }

@@ -44,9 +44,9 @@ namespace SimbirSoftProj.Core
 
         public async void Worker()
         {
-            var source = await loader.GetSource();
             try
             {
+                var source = await loader.GetSource();
                 var domParser = new HtmlParser();
                 var document = await domParser.ParseDocumentAsync(source);
                 var result = parser.Parse(document);

@@ -1,9 +1,7 @@
 ﻿using SimbirSoftProj.Core.Log;
 using System;
-using System.Collections.Generic;
 using System.Net;
 using System.Net.Http;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace SimbirSoftProj.Core
@@ -24,7 +22,7 @@ namespace SimbirSoftProj.Core
             try
             {
                 var response = await client.GetAsync(url);
-                
+
                 if (response != null && response.StatusCode == HttpStatusCode.OK)
                 {
                     source = await response.Content.ReadAsStringAsync();
@@ -34,14 +32,14 @@ namespace SimbirSoftProj.Core
                 {
                     Logger.WriteLog($"Parser wasn't connected to {url}. StatusCode = {response.StatusCode}");
                 }
-                
+
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 Logger.WriteLog($"Parser wasn't connected to {url}. [{ex.Message}]");
             }
-            
+
             return source;
         }
-    } 
+    }
 }

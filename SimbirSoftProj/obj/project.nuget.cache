@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t5u8ngkC0ZmJ5/daZVhksJ/SCndibKAPag0GH9+XeOLhp0MdhJaZCOFAg4CAg+SNNjZsn18nmylA6yOe6/Ofmg==",
+  "dgSpecHash": "ZUhICzjbfNCnCJ0RKHhMZRcuxeXBtQrgVURe8Mmmn4GGLB1+RksYS1MG2SfauLWkUUmMm+SKrZSB1vgrZUftOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\ParserSimbirSoft\\Parser For SimbirSoft\\SimbirSoftProj\\SimbirSoftProj.csproj",
+  "projectFilePath": "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\ParserSimbirSoft\\Parser For SimbirSoft\\SimbirSoftProj\\ParserApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stiik\\.nuget\\packages\\anglesharp\\0.16.0\\anglesharp.0.16.0.nupkg.sha512",
     "C:\\Users\\Stiik\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",

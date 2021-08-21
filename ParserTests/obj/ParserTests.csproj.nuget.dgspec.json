@@ -31,8 +31,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\ParserSimbirSoft\\Parser For SimbirSoft\\SimbirSoftProj\\SimbirSoftProj.csproj": {
-                "projectPath": "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\ParserSimbirSoft\\Parser For SimbirSoft\\SimbirSoftProj\\SimbirSoftProj.csproj"
+              "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\ParserSimbirSoft\\Parser For SimbirSoft\\SimbirSoftProj\\ParserApp.csproj": {
+                "projectPath": "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\ParserSimbirSoft\\Parser For SimbirSoft\\SimbirSoftProj\\ParserApp.csproj"
               }
             }
           }
@@ -79,12 +79,12 @@
         }
       }
     },
-    "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\ParserSimbirSoft\\Parser For SimbirSoft\\SimbirSoftProj\\SimbirSoftProj.csproj": {
+    "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\ParserSimbirSoft\\Parser For SimbirSoft\\SimbirSoftProj\\ParserApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\ParserSimbirSoft\\Parser For SimbirSoft\\SimbirSoftProj\\SimbirSoftProj.csproj",
-        "projectName": "SimbirSoftProj",
-        "projectPath": "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\ParserSimbirSoft\\Parser For SimbirSoft\\SimbirSoftProj\\SimbirSoftProj.csproj",
+        "projectUniqueName": "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\ParserSimbirSoft\\Parser For SimbirSoft\\SimbirSoftProj\\ParserApp.csproj",
+        "projectName": "ParserApp",
+        "projectPath": "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\ParserSimbirSoft\\Parser For SimbirSoft\\SimbirSoftProj\\ParserApp.csproj",
         "packagesPath": "C:\\Users\\Stiik\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\ParserSimbirSoft\\Parser For SimbirSoft\\SimbirSoftProj\\obj\\",
         "projectStyle": "PackageReference",
