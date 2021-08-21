@@ -364,6 +364,28 @@ public string BaseUrl
 
 <h3>Класс "ParserWorker"</h3>
 
+Класс использует приведенные выше классы из папки "Parser", а так же использует класс "HtmlLoader" для получения информации с обрабатываемого сайта и выделения текстовой информации с него.
+
+Класс имеет три поля. Поле "parser" типа "IParser", в котором хранится экземпляр конкретного парсера. В зависимости от переданного в аргументы конструктора экземпляра класса можно изменить способ обработки сайта. Поле "parserSettings" типа "IPArserSettings,которое содержит информацию о настройках парсера. Поле "loader" типа "HtmlLoader", которое содержит экземпляр класса, отвечающего за подключение к сайту.
+
+```
+        IParser<T> parser;
+        IParserSettings parserSettings;
+        HtmlLoader loader;
+
+        public ParserWorker(IParser<T> parser)
+        {
+            this.parser = parser;
+        }
+
+        public ParserWorker(IParser<T> parser, IParserSettings parserSettings)
+            : this(parser)
+        {
+            this.parserSettings = parserSettings;
+            loader = new HtmlLoader(parserSettings);
+        }
+```
+
 Асинхронный метод "Worker" посылает запрос на обрабатываемый сайт методом "GetSource"(Его описание будет представлено ниже). В результате его работы html-код обрабатываемого сайта записывается в переменную "source" в виде строки. После получения ответа с сайта создается экземпляр класса "HtmlParser" из библиотеки "AngleSharp". С помощью метода "ParseDocumentAsync" из этой библиотеки в переменную "Document" записывается информация о DOM-дереве, полученной парсингом html-кода из переменной "source". Далее из каждого элемента DOM-дерева извлекается текстовая информация, и результат работы метода возвращается с помощью активирования события OnNewData.
 
 ```
