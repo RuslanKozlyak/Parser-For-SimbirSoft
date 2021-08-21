@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\SimbirSoftProj\\ParserSimbirSoft\\ParserTests\\ParserTests.csproj": {}
+    "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\ParserSimbirSoft\\Parser For SimbirSoft\\ParserTests\\ParserTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\SimbirSoftProj\\ParserSimbirSoft\\ParserTests\\ParserTests.csproj": {
+    "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\ParserSimbirSoft\\Parser For SimbirSoft\\ParserTests\\ParserTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\SimbirSoftProj\\ParserSimbirSoft\\ParserTests\\ParserTests.csproj",
+        "projectUniqueName": "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\ParserSimbirSoft\\Parser For SimbirSoft\\ParserTests\\ParserTests.csproj",
         "projectName": "ParserTests",
-        "projectPath": "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\SimbirSoftProj\\ParserSimbirSoft\\ParserTests\\ParserTests.csproj",
+        "projectPath": "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\ParserSimbirSoft\\Parser For SimbirSoft\\ParserTests\\ParserTests.csproj",
         "packagesPath": "C:\\Users\\Stiik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\SimbirSoftProj\\ParserSimbirSoft\\ParserTests\\obj\\",
+        "outputPath": "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\ParserSimbirSoft\\Parser For SimbirSoft\\ParserTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\SimbirSoftProj\\ParserSimbirSoft\\SimbirSoftProj\\SimbirSoftProj.csproj": {
-                "projectPath": "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\SimbirSoftProj\\ParserSimbirSoft\\SimbirSoftProj\\SimbirSoftProj.csproj"
+              "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\ParserSimbirSoft\\Parser For SimbirSoft\\SimbirSoftProj\\SimbirSoftProj.csproj": {
+                "projectPath": "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\ParserSimbirSoft\\Parser For SimbirSoft\\SimbirSoftProj\\SimbirSoftProj.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\SimbirSoftProj\\ParserSimbirSoft\\SimbirSoftProj\\SimbirSoftProj.csproj": {
+    "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\ParserSimbirSoft\\Parser For SimbirSoft\\SimbirSoftProj\\SimbirSoftProj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\SimbirSoftProj\\ParserSimbirSoft\\SimbirSoftProj\\SimbirSoftProj.csproj",
+        "projectUniqueName": "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\ParserSimbirSoft\\Parser For SimbirSoft\\SimbirSoftProj\\SimbirSoftProj.csproj",
         "projectName": "SimbirSoftProj",
-        "projectPath": "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\SimbirSoftProj\\ParserSimbirSoft\\SimbirSoftProj\\SimbirSoftProj.csproj",
+        "projectPath": "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\ParserSimbirSoft\\Parser For SimbirSoft\\SimbirSoftProj\\SimbirSoftProj.csproj",
         "packagesPath": "C:\\Users\\Stiik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\SimbirSoftProj\\ParserSimbirSoft\\SimbirSoftProj\\obj\\",
+        "outputPath": "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\ParserSimbirSoft\\Parser For SimbirSoft\\SimbirSoftProj\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

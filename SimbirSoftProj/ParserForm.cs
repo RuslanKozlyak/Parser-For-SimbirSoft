@@ -44,6 +44,7 @@ namespace SimbirSoftProj
             CountWordsButton.Enabled = false;
             LoadButton.Enabled = false;
             AddIgnoredTagButton.Enabled = false;
+            DeleteTagButton.Enabled = false;
         }
 
         private void CountWordsButton_Click(object sender, EventArgs e)
@@ -124,6 +125,22 @@ namespace SimbirSoftProj
                 LoadButton.Enabled = false;
         }
 
+        private void IgnoredTagTextBox_TextChanged(object sender, EventArgs e)
+        {
+            if (IgnoredTagTextBox.Text != "")
+            {
+                AddIgnoredTagButton.Enabled = true;
+                DeleteTagButton.Enabled = true;
+            }
+
+            else
+            {
+                AddIgnoredTagButton.Enabled = false;
+                DeleteTagButton.Enabled = false;
+            }
+
+        }
+
         private void AddIgnoredTagButton_Click(object sender, EventArgs e)
         {
             try
@@ -141,12 +158,28 @@ namespace SimbirSoftProj
             
         }
 
-        private void IgnoredTagTextBox_TextChanged(object sender, EventArgs e)
+        private void DeleteTagButton_Click(object sender, EventArgs e)
         {
-            if (IgnoredTagTextBox.Text != "")
-                AddIgnoredTagButton.Enabled = true;
-            else
-                AddIgnoredTagButton.Enabled = false;
+            List<string> ignoredTags = new List<string>();
+            try
+            {
+                using (StreamReader reader = new StreamReader("IgnoredTags.txt"))
+                {
+                    while(!reader.EndOfStream)
+                        ignoredTags.Add(reader.ReadLine());
+                }
+                ignoredTags.Remove(IgnoredTagTextBox.Text.ToUpper());
+                using (StreamWriter writer = new StreamWriter("IgnoredTags.txt"))
+                {
+                    foreach (var tag in ignoredTags)
+                        writer.WriteLine(tag);
+                }
+                MessageBox.Show("Тег удален из игнорируемых!");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Не удалось добавить тег в игнорируемые. [ {ex.Message} ]");
+            }
         }
     }
 }

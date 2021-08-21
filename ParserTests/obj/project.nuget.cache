@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0+vD5kUp0m8D8dEj4ECAMmJcmmk5G8OkdGFpyKdwFFCVy/PzgyfuI5CgOPIk9J0K5cuMegw8bjAK4mNndxNV3Q==",
+  "dgSpecHash": "bJ/9KTjplMxoWG6RNVDOKEvvjZAGe96vW9Pnac19lbfoINglV4sQbkArjwaVYApITrUroahMxP9Uw/4EOMg46w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\SimbirSoftProj\\ParserSimbirSoft\\ParserTests\\ParserTests.csproj",
+  "projectFilePath": "C:\\Users\\Stiik\\OneDrive\\Рабочий стол\\ParserSimbirSoft\\Parser For SimbirSoft\\ParserTests\\ParserTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stiik\\.nuget\\packages\\anglesharp\\0.16.0\\anglesharp.0.16.0.nupkg.sha512",
     "C:\\Users\\Stiik\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",

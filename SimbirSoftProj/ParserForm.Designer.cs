@@ -49,6 +49,7 @@ namespace SimbirSoftProj
             this.AddIgnoredTagButton = new System.Windows.Forms.Button();
             this.label7 = new System.Windows.Forms.Label();
             this.ToolTip = new System.Windows.Forms.ToolTip(this.components);
+            this.DeleteTagButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // richTextBox2
@@ -229,11 +230,22 @@ namespace SimbirSoftProj
             this.ToolTip.ToolTipIcon = System.Windows.Forms.ToolTipIcon.Info;
             this.ToolTip.ToolTipTitle = "Подсказка";
             // 
+            // DeleteTagButton
+            // 
+            this.DeleteTagButton.Location = new System.Drawing.Point(585, 425);
+            this.DeleteTagButton.Name = "DeleteTagButton";
+            this.DeleteTagButton.Size = new System.Drawing.Size(319, 34);
+            this.DeleteTagButton.TabIndex = 20;
+            this.DeleteTagButton.Text = "Удалить тег";
+            this.DeleteTagButton.UseVisualStyleBackColor = true;
+            this.DeleteTagButton.Click += new System.EventHandler(this.DeleteTagButton_Click);
+            // 
             // ParserApp
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(926, 673);
+            this.Controls.Add(this.DeleteTagButton);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label7);
@@ -282,6 +294,7 @@ namespace SimbirSoftProj
         private System.Windows.Forms.Button AddIgnoredTagButton;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.ToolTip ToolTip;
+        private System.Windows.Forms.Button DeleteTagButton;
     }
 }
 
