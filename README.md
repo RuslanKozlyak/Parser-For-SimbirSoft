@@ -268,7 +268,7 @@ public static void WriteLog(string message)
         }
 ```
 
-<h2>3. Папка "Parser"</h2>
+<h2>4. Папка "Parser"</h2>
 
 <h3>Интерфейс "IParser"</h3>
 
@@ -473,4 +473,73 @@ public async void Worker()
         }
 ```
 
+<h2>5. Папка "StringProcessing"</h2>
 
+<h3>Класс "WordCounter"</h3>
+
+Класс отвечает за подсчет колличества слов, которые были полученны в результате парсинга сайта. 
+
+Метод "GetCountedWords" подсчитывает количество слов из переданного ему массива "text" типа "string". Сначала он разбивает массив предложений на отдельные слова методом "SeparateWords". Далее создается словарь, ключами в котором буду разделенный слова, а значениями количество этих слов. Каждое слово переводится в верхний регистр чтобы посчитать все уникальные слов без зависимости от регистра.
+
+```
+public static Dictionary<string, int> GetCountedWords(string[] text)
+        {
+            var words = SeparateWords(text);
+            var countedWordsList = new Dictionary<string, int>();
+
+            for (int i = 0; i < words.Length; i++)
+            {
+                var upstringWord = words[i].ToUpper();
+                try
+                {
+                    if (countedWordsList.Keys.Contains(upstringWord))
+                        countedWordsList[upstringWord]++; 
+                    else
+                        countedWordsList.Add(upstringWord, 1);
+                    
+                }
+                catch(Exception ex)
+                {
+                    Logger.WriteLog($"The word could not be counted due to an error. [ {ex.Message} ]");
+                }
+            }
+            return countedWordsList;
+        }
+```
+
+Метод "SeparateWors" отделяет слова друг от друга из переданного ему массива "text" типа "string" с помощью списка разделителей. Каждый элемент списка разделяется на слова методом "Split", а затем из строки дополнительно удаляются пробелы методом "DeleteWhiteSpace". После разделения каждое слово записывается в выходной список, который и возвращает данный метод. 
+
+```
+static string[] SeparateWords(string[] text)
+        {
+            var words = new List<string>();
+            var separators = new char[] { ' ', ',', '.','\'', '!', '?', '"', ';', ':', '[', ']', '(', ')', '«', '»', '—', '\n', '\r', '\t' };
+            foreach (var sentence in text)
+            {
+                try
+                {
+                    var splitedSentence = sentence.Split(separators);
+                    var clearedSentence = DeleteWhiteSpace(splitedSentence);
+                    Logger.WriteLog($"The sentence was divided into words. {String.Join(",",clearedSentence)}");
+                    foreach (var word in clearedSentence)
+                    {
+                        words.Add(word);
+                    }
+                }
+                catch(Exception ex)
+                {
+                    Logger.WriteLog($"The sentence wasn't divided into words. [ {ex.Message} ]");
+                }
+            }
+            return words.ToArray();
+        }
+```
+
+Метод "DeleteWhiteSpace" удаляет пустые строки из массива "text" типа "string" переданного ему в качестве аргумента.
+
+```
+static string [] DeleteWhiteSpace(string[] text)
+        {
+            return text.Where(x => !string.IsNullOrWhiteSpace(x)).ToArray();
+        }
+```
