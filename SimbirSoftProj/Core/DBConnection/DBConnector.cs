@@ -1,10 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Data.SqlClient;
-using System.Data;
+﻿using SimbirSoftProj.Core.DBConnection;
 using SimbirSoftProj.Core.Log;
-using SimbirSoftProj.Core.DBConnection;
+using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Data.SqlClient;
 
 namespace SimbirSoftProj.Core
 {
@@ -16,7 +15,7 @@ namespace SimbirSoftProj.Core
         {
             connection = new SqlConnection(settings.ConnectionString);
         }
-        public void FillTableWithData(Dictionary<string,int> countedWords)
+        public void FillTableWithData(Dictionary<string, int> countedWords)
         {
             try
             {
@@ -30,13 +29,18 @@ namespace SimbirSoftProj.Core
                     ExecuteCommand(comandSting);
                 }
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 Logger.WriteLog($"Failed to load data into table. [ {ex.Message} ]");
             }
-            
         }
-       
+        void CreateTable()
+        {
+            string comandString = "CREATE TABLE dbo.CountedWords"
+           + "(Word varchar(255) NOT NULL,"
+           + "Count int NOT NULL);";
+            ExecuteCommand(comandString);
+        }
         bool TableAlreadyExists()
         {
             DataTable schemaTable = connection.GetSchema("Tables");
@@ -47,14 +51,7 @@ namespace SimbirSoftProj.Core
             }
             return false;
         }
-        void CreateTable()
-        {
-            string comandString = "CREATE TABLE dbo.CountedWords"
-           + "(Word varchar(255) NOT NULL,"
-           + "Count int NOT NULL);";
-            ExecuteCommand(comandString);
-        }
-      
+
         void ExecuteCommand(string commandString)
         {
             try
@@ -65,11 +62,10 @@ namespace SimbirSoftProj.Core
                 adapter.Fill(DT);
                 Logger.WriteLog($"Command {commandString} was executed.");
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 Logger.WriteLog($"Command {commandString} was not executed. [ {ex.Message} ]");
             }
-            
         }
         public void OpenConnection()
         {
@@ -85,7 +81,6 @@ namespace SimbirSoftProj.Core
             {
                 Logger.WriteLog($"Failed to open connection. Check the server name. [{ex.Message}]");
             }
-
         }
         public void CloseConnection()
         {

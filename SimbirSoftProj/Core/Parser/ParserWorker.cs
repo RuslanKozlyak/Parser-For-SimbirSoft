@@ -8,8 +8,20 @@ namespace SimbirSoftProj.Core
     {
         IParser<T> parser;
         IParserSettings parserSettings;
-
         HtmlLoader loader;
+
+        public ParserWorker(IParser<T> parser)
+        {
+            this.parser = parser;
+        }
+
+        public ParserWorker(IParser<T> parser, IParserSettings parserSettings)
+            : this(parser)
+        {
+            this.parserSettings = parserSettings;
+            loader = new HtmlLoader(parserSettings);
+        }
+
         public IParser<T> Parser
         {
             get
@@ -28,18 +40,7 @@ namespace SimbirSoftProj.Core
             }
         }
 
-        public event Action<object, T> OnNewData;
-
-        public ParserWorker(IParser<T> parser)
-        {
-            this.parser = parser;
-        }
-        public ParserWorker(IParser<T> parser, IParserSettings parserSettings)
-            : this(parser)
-        {
-            this.parserSettings = parserSettings;
-            loader = new HtmlLoader(parserSettings);
-        }
+        public event Action<T> OnNewData;
 
         public async void Worker()
         {
@@ -50,13 +51,12 @@ namespace SimbirSoftProj.Core
                 var document = await domParser.ParseDocumentAsync(source);
                 var result = parser.Parse(document);
                 Logger.WriteLog($"The page was parsed.");
-                OnNewData?.Invoke(this, result);
+                OnNewData?.Invoke(result);
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 Logger.WriteLog($"The page was not parsed due to an error. [{ex.Message}]");
             }
-            
         }
     }
 }

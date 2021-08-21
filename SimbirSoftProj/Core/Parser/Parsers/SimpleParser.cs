@@ -44,7 +44,7 @@ namespace SimbirSoftProj.Core.Parsers
         }
         static void GetAllElements(IElement element, List<IElement> elements)
         {
-            if (TagIsNotForbiden(element) & AreNotNestedTag(element))
+            if (TagIsNotForbiden(element) & AreNotNestedList(element))
             {
                 try
                 {
@@ -67,7 +67,7 @@ namespace SimbirSoftProj.Core.Parsers
             var tag = element.TagName.ToUpper();
             return !forbidenTags.Contains(tag);
         }
-        static bool AreNotNestedTag(IElement element)
+        static bool AreNotNestedList(IElement element)
         {
             if(element.TagName.ToUpper()=="LI")
             {

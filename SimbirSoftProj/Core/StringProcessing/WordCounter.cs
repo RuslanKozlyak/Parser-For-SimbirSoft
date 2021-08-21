@@ -12,6 +12,7 @@ namespace SimbirSoftProj.Core
         {
             var words = SeparateWords(text);
             var countedWordsList = new Dictionary<string, int>();
+
             for (int i = 0; i < words.Length; i++)
             {
                 var upstringWord = words[i].ToUpper();
@@ -27,11 +28,10 @@ namespace SimbirSoftProj.Core
                 {
                     Logger.WriteLog($"The word could not be counted due to an error. [ {ex.Message} ]");
                 }
-                
-                
             }
             return countedWordsList;
         }
+
         static string[] SeparateWords(string[] text)
         {
             var words = new List<string>();
@@ -41,7 +41,7 @@ namespace SimbirSoftProj.Core
                 try
                 {
                     var splitedSentence = sentence.Split(separators);
-                    var clearedSentence = DeleteWhiteSpase(splitedSentence);
+                    var clearedSentence = DeleteWhiteSpace(splitedSentence);
                     Logger.WriteLog($"The sentence was divided into words. {String.Join(",",clearedSentence)}");
                     foreach (var word in clearedSentence)
                     {
@@ -56,7 +56,7 @@ namespace SimbirSoftProj.Core
             return words.ToArray();
         }
         
-        static string [] DeleteWhiteSpase(string[] text)
+        static string [] DeleteWhiteSpace(string[] text)
         {
             return text.Where(x => !string.IsNullOrWhiteSpace(x)).ToArray();
         }

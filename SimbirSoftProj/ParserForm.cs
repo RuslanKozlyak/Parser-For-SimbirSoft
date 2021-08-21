@@ -20,7 +20,7 @@ namespace SimbirSoftProj
         {
             InitializeComponent();
         }
-        private void Parser_OnNewData(object parser, string[] text)
+        private void Parser_OnNewData(string[] text)
         {
             countedWords = WordCounter.GetCountedWords(text);
             foreach (var word in countedWords)

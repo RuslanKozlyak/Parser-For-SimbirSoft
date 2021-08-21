@@ -1,390 +1,339 @@
-[21.08.2021 10:36:31] : Parser was connected to https://www.simbirsoft.com/career/. StatusCode = OK
-[21.08.2021 10:36:32] : Element TITLE has been listed.
-[21.08.2021 10:36:32] : Element NOSCRIPT has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element P has been listed.
-[21.08.2021 10:36:32] : Element H1 has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element H2 has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element H2 has been listed.
-[21.08.2021 10:36:32] : Element BR has been listed.
-[21.08.2021 10:36:32] : Element BR has been listed.
-[21.08.2021 10:36:32] : Element BR has been listed.
-[21.08.2021 10:36:32] : Element BR has been listed.
-[21.08.2021 10:36:32] : Element BR has been listed.
-[21.08.2021 10:36:32] : Element BR has been listed.
-[21.08.2021 10:36:32] : Element BR has been listed.
-[21.08.2021 10:36:32] : Element BR has been listed.
-[21.08.2021 10:36:32] : Element BR has been listed.
-[21.08.2021 10:36:32] : Element BR has been listed.
-[21.08.2021 10:36:32] : Element FORM has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element H4 has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element BR has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element LABEL has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element BUTTON has been listed.
-[21.08.2021 10:36:32] : Element FORM has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element H2 has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element SELECT has been listed.
-[21.08.2021 10:36:32] : Element OPTION has been listed.
-[21.08.2021 10:36:32] : Element OPTION has been listed.
-[21.08.2021 10:36:32] : Element OPTION has been listed.
-[21.08.2021 10:36:32] : Element OPTION has been listed.
-[21.08.2021 10:36:32] : Element OPTION has been listed.
-[21.08.2021 10:36:32] : Element OPTION has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element BR has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element LABEL has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element BUTTON has been listed.
-[21.08.2021 10:36:32] : Element H2 has been listed.
-[21.08.2021 10:36:32] : Element FORM has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element H2 has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element TEXTAREA has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element LABEL has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element BUTTON has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element H4 has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element H4 has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element H4 has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element H4 has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element H4 has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element LI has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element FORM has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element H2 has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element TEXTAREA has been listed.
-[21.08.2021 10:36:32] : Element LABEL has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element BR has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element BR has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element INPUT has been listed.
-[21.08.2021 10:36:32] : Element LABEL has been listed.
-[21.08.2021 10:36:32] : Element SPAN has been listed.
-[21.08.2021 10:36:32] : Element BUTTON has been listed.
-[21.08.2021 10:36:32] : Text Content of Tag TITLE has been listed. [ "Карьера в компании SimbirSoft — вакансии в IT-компании" ]
-[21.08.2021 10:36:32] : Text Content of Tag NOSCRIPT has been listed. [ "
+[21.08.2021 16:32:08] : Parser was connected to https://www.simbirsoft.com/career/. StatusCode = OK
+[21.08.2021 16:32:09] : Element TITLE has been listed.
+[21.08.2021 16:32:09] : Element NOSCRIPT has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element P has been listed.
+[21.08.2021 16:32:09] : Element H1 has been listed.
+[21.08.2021 16:32:09] : Element SECTION has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element SECTION has been listed.
+[21.08.2021 16:32:09] : Element H2 has been listed.
+[21.08.2021 16:32:09] : Element SECTION has been listed.
+[21.08.2021 16:32:09] : Element H2 has been listed.
+[21.08.2021 16:32:09] : Element BR has been listed.
+[21.08.2021 16:32:09] : Element BR has been listed.
+[21.08.2021 16:32:09] : Element BR has been listed.
+[21.08.2021 16:32:09] : Element BR has been listed.
+[21.08.2021 16:32:09] : Element BR has been listed.
+[21.08.2021 16:32:09] : Element BR has been listed.
+[21.08.2021 16:32:09] : Element BR has been listed.
+[21.08.2021 16:32:09] : Element BR has been listed.
+[21.08.2021 16:32:09] : Element BR has been listed.
+[21.08.2021 16:32:09] : Element BR has been listed.
+[21.08.2021 16:32:09] : Element SECTION has been listed.
+[21.08.2021 16:32:09] : Element FORM has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element H4 has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element BR has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element LABEL has been listed.
+[21.08.2021 16:32:09] : Element BUTTON has been listed.
+[21.08.2021 16:32:09] : Element FORM has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element H2 has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element SELECT has been listed.
+[21.08.2021 16:32:09] : Element OPTION has been listed.
+[21.08.2021 16:32:09] : Element OPTION has been listed.
+[21.08.2021 16:32:09] : Element OPTION has been listed.
+[21.08.2021 16:32:09] : Element OPTION has been listed.
+[21.08.2021 16:32:09] : Element OPTION has been listed.
+[21.08.2021 16:32:09] : Element OPTION has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element BR has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element LABEL has been listed.
+[21.08.2021 16:32:09] : Element BUTTON has been listed.
+[21.08.2021 16:32:09] : Element SECTION has been listed.
+[21.08.2021 16:32:09] : Element H2 has been listed.
+[21.08.2021 16:32:09] : Element FORM has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element H2 has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element TEXTAREA has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element LABEL has been listed.
+[21.08.2021 16:32:09] : Element BUTTON has been listed.
+[21.08.2021 16:32:09] : Element H4 has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element H4 has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element H4 has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element H4 has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element H4 has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element LI has been listed.
+[21.08.2021 16:32:09] : Element FORM has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element H2 has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element TEXTAREA has been listed.
+[21.08.2021 16:32:09] : Element LABEL has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element BR has been listed.
+[21.08.2021 16:32:09] : Element BR has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element INPUT has been listed.
+[21.08.2021 16:32:09] : Element LABEL has been listed.
+[21.08.2021 16:32:09] : Element BUTTON has been listed.
+[21.08.2021 16:32:09] : Text Content of Tag TITLE has been listed. [ "Карьера в компании SimbirSoft — вакансии в IT-компании" ]
+[21.08.2021 16:32:09] : Text Content of Tag NOSCRIPT has been listed. [ "
     
 " ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "
-            Решения          " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     
                         Для банков                    
                 " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     
                         Для страховых                    
                 " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     
                         Оценка IT-проектов                    
                 " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     
                         Data Science                    
                 " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     
                         Автоматизация бизнеса                    
                 " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     
                         ShopChat                    
                 " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     
                         Food Tech                    
                 " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     
                         Для медицинской сферы                    
                 " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     
                         Для промышленности                    
                 " ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "
-            Услуги          " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     
                         IT-продукт под ключ                    
                 " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     
                         Аутсорсинг                    
                 " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     
                         Модернизация ПО                    
                 " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     
                         «Спасти» продукт                    
                 " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     
                         Обеспечение качества                    
                 " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     
                         QA-консалтинг                    
                 " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     
                         Техподдержка production и разработки                    
                 " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     
                         Jira Service                    
                 " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     
                         IT-архитектура                    
                 " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     
                         UX-аудит                    
                 " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     
                         Внедрение Битрикс24                    
                 " ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "
-            Портфолио          " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     
                         Технологии                    
                 " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     
                         Отрасли                    
                 " ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "
-            О нас          " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     
                         О компании                    
                 " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     
                         Награды                    
                 " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     
                         Клиенты и отзывы                    
                 " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     
                         Наши процессы                    
                 " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     
                         Новости                    
                 " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     
                         Менеджмент                    
                 " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     
                         Контакты                    
                 " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     
                         Социальная ответственность                    
                 " ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "
-            Карьера          " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     
                         Работа                    
                 " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     
                         Вакансии                    
                 " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     
                         Начало карьеры                    
                 " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     
                         Блог
                     
                 " ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "Блог" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
         
             
                 
@@ -395,40 +344,163 @@
             
         
     " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
           
               Напишите нам
               8-800-200-9924
           
       " ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "
-              Напишите нам
-              8-800-200-9924
-          " ]
-[21.08.2021 10:36:32] : Text Content of Tag P has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag P has been listed. [ "
                 Наш сайт использует файлы cookie. Оставаясь на www.simbirsoft.com, вы подтверждаете свое
                 согласие на использование данных файлов
             " ]
-[21.08.2021 10:36:32] : Text Content of Tag H1 has been listed. [ "Карьера в IT-компании SimbirSoft" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "Вы студент математик, физик или IT-шник" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "Ваша работа не связана с IT, но программирование — ваше хобби" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "Имеете опыт работы в другой отрасли, и решили начать с нуля в IT" ]
-[21.08.2021 10:36:32] : Text Content of Tag H2 has been listed. [ "Начать просто" ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "Пришлите нам свое резюме." ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "Выполните тестовое задание" ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "Пройдите IT-практикум." ]
-[21.08.2021 10:36:32] : Text Content of Tag H2 has been listed. [ "Вопрос-ответ" ]
-[21.08.2021 10:36:32] : Text Content of Tag BR has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag BR has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag BR has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag BR has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag BR has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag BR has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag BR has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag BR has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag BR has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag BR has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag FORM has been listed. [ "    ПРИСОЕДИНЯЙСЯ К НАМ
+[21.08.2021 16:32:09] : Text Content of Tag H1 has been listed. [ "Карьера в IT-компании SimbirSoft" ]
+[21.08.2021 16:32:09] : Text Content of Tag SECTION has been listed. [ "
+  
+    
+        SimbirSoft  заинтересована в талантливых и перспективных сотрудниках, поэтому наши двери открыты для специалистов без опыта работы в IT, но с большим желанием его получить.
+    
+    
+      
+        Вы студент математик, физик или IT-шник
+        Ваша работа не связана с IT, но программирование — ваше хобби
+        Имеете опыт работы в другой отрасли, и решили начать с нуля в IT
+      
+    
+  
+" ]
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "Вы студент математик, физик или IT-шник" ]
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "Ваша работа не связана с IT, но программирование — ваше хобби" ]
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "Имеете опыт работы в другой отрасли, и решили начать с нуля в IT" ]
+[21.08.2021 16:32:09] : Text Content of Tag SECTION has been listed. [ "
+  
+    
+      Начать просто
+      
+        
+          
+            Пришлите нам свое резюме.
+             Часто мы видим портрет человека и помогаем определиться с будущей должностью. Работа в ведущей компании с опытным ментором поможет быстро влиться в нашу команду.
+          
+          Отправить резюме
+        
+
+        
+          
+            Выполните тестовое задание
+            и разберитесь в основах разработки ПО самостоятельно. Мы дадим Вам обратную связь. Заполните форму и прикрепите резюме, чтобы наряду с выполнением ТЗ мы могли оценить ваш опыт
+          
+          Тестовое задание
+        
+
+        
+          
+              Пройдите IT-практикум. Получайте базу теории и выполняйте практические задания с поддержкой менторов. Направления: Frontend, Backend, Mobile, SDET, QA, Python, DevOps, Дизайн.
+          
+          Перейти
+        
+      
+    
+  
+" ]
+[21.08.2021 16:32:09] : Text Content of Tag H2 has been listed. [ "Начать просто" ]
+[21.08.2021 16:32:09] : Text Content of Tag SECTION has been listed. [ "
+  
+    Вопрос-ответ
+    
+      Я студент. Хватит ли мне вузовских знаний для работы в SimbirSoft?
+      
+        У нас в компании работают студенты, которые совмещают учебу и работу. Как правило,  вузовских знаний для работы недостаточно. В университетах дают отличную теоретическую базу, но мы всегда советуем в дополнение к лекциям участвовать в практических проектах, олимпиадах по программированию, в Летнем интенсиве — в общем, всеми способами набираться практических навыков разработки. Что касается технологий - будет не лишним углубить свои знания на технологическом курсе IT.Place.
+      
+    
+    
+      Сколько я буду зарабатывать, попав на стажировку в SimbirSoft?
+      
+        SimbirSoft предлагает оплату труда не ниже рыночного уровня. Попадая на стажировку в компанию  независимо от ваших знаний на старте Вы получаете белую зарплату и можете пользоваться всем набором возможностей нашей компании. Есть факторы, которые положительно влияют на размер вашей ЗП на старте:
+        - Ваш опыт работы в целом и масштаб задач, которые Вы решали;
+        - опыт разработки ПО;
+        - владение английским на уровне upper intermediate и выше;
+        - положительные рекомендации наших сотрудников;
+        - победитель олимпиад;
+        - уникальная или редкая экспертиза, востребованная в компании.
+      
+    
+    
+      Какой у меня будет график работы?
+      
+        В SimbirSoft гибкий офисный график. После прохождения испытательного срока (до 3 месяцев) это:
+        - либо 40 часов в неделю (время обеда и прибывания в офисе Вы выбираете сами),
+        - либо предмет договоренностей внутри проектной команды. 
+        Но самое главное -  не пропускать важные для проекта моменты: митинги, созвоны с заказчиком, дэдлайны и так далее.
+      
+    
+    
+      Как быстро будет расти мой уровень дохода?
+      
+        Уровень заработной платы в СимбирСофт зависит от роста квалификации специалиста, стажа работы в компании, личного вклада в успех проекта.
+      
+    
+    
+      В каких проектах я буду принимать участие?
+      
+      Ознакомиться с проектами Вы можете в разделе Портфолио.
+      
+    
+  
+" ]
+[21.08.2021 16:32:09] : Text Content of Tag H2 has been listed. [ "Вопрос-ответ" ]
+[21.08.2021 16:32:09] : Text Content of Tag BR has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag BR has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag BR has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag BR has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag BR has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag BR has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag BR has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag BR has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag BR has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag BR has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag SECTION has been listed. [ "
+
+  
+
+        
+    ПРИСОЕДИНЯЙСЯ К НАМ
+    
+        
+                        
+                
+                    Прикрепите своё резюме*
+                    
+                                             
+                
+                Расширения файла: 'doc', 'docx', 'pdf', 'png'Максимальный размер файла - 10 Мб
+                
+                                    
+            
+        
+        
+            
+                
+                                        
+                
+            
+            
+                
+                    
+                    Я прочитал Политику защиты и обработки персональных данных и согласен с ней
+                
+                
+                    Отправить                
+            
+        
+
+    
+
+
+  
+
+" ]
+[21.08.2021 16:32:09] : Text Content of Tag FORM has been listed. [ "    ПРИСОЕДИНЯЙСЯ К НАМ
     
         
                         
@@ -461,33 +533,26 @@
     
 
 " ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag H4 has been listed. [ "ПРИСОЕДИНЯЙСЯ К НАМ" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "Расширения файла: 'doc', 'docx', 'pdf', 'png'Максимальный размер файла - 10 Мб" ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "Расширения файла: 'doc', 'docx', 'pdf', 'png'" ]
-[21.08.2021 10:36:32] : Text Content of Tag BR has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "Максимальный размер файла - 10 Мб" ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "
-                                    " ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag LABEL has been listed. [ "Я прочитал Политику защиты и обработки персональных данных и согласен с ней" ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "Я прочитал Политику защиты и обработки персональных данных и согласен с ней" ]
-[21.08.2021 10:36:32] : Text Content of Tag BUTTON has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag H4 has been listed. [ "ПРИСОЕДИНЯЙСЯ К НАМ" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag BR has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag LABEL has been listed. [ "Я прочитал Политику защиты и обработки персональных данных и согласен с ней" ]
+[21.08.2021 16:32:09] : Text Content of Tag BUTTON has been listed. [ "
                     Отправить                " ]
-[21.08.2021 10:36:32] : Text Content of Tag FORM has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag FORM has been listed. [ "
         
         Тестовое задание
                  
@@ -527,14 +592,14 @@
         
             Отправить        
     " ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag H2 has been listed. [ "Тестовое задание" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag SELECT has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag H2 has been listed. [ "Тестовое задание" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag SELECT has been listed. [ "
             Направление*
                             Java-разработчик
                             JS-разработчик
@@ -542,31 +607,53 @@
                             С#-разработчик
                             Другое (свой вариант)
                     " ]
-[21.08.2021 10:36:32] : Text Content of Tag OPTION has been listed. [ "Направление*" ]
-[21.08.2021 10:36:32] : Text Content of Tag OPTION has been listed. [ "Java-разработчик" ]
-[21.08.2021 10:36:32] : Text Content of Tag OPTION has been listed. [ "JS-разработчик" ]
-[21.08.2021 10:36:32] : Text Content of Tag OPTION has been listed. [ "QA-специалист" ]
-[21.08.2021 10:36:32] : Text Content of Tag OPTION has been listed. [ "С#-разработчик" ]
-[21.08.2021 10:36:32] : Text Content of Tag OPTION has been listed. [ "Другое (свой вариант)" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "
-                Расширения файла: 'doc', 'docx', 'pdf', 'png'
-                Максимальный размер файла - 10 Мб
-            " ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "Расширения файла: 'doc', 'docx', 'pdf', 'png'" ]
-[21.08.2021 10:36:32] : Text Content of Tag BR has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "Максимальный размер файла - 10 Мб" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag LABEL has been listed. [ "Я прочитал Политику защиты и обработки персональных данных и согласен с ней" ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "Я прочитал Политику защиты и обработки персональных данных и согласен с ней" ]
-[21.08.2021 10:36:32] : Text Content of Tag BUTTON has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag OPTION has been listed. [ "Направление*" ]
+[21.08.2021 16:32:09] : Text Content of Tag OPTION has been listed. [ "Java-разработчик" ]
+[21.08.2021 16:32:09] : Text Content of Tag OPTION has been listed. [ "JS-разработчик" ]
+[21.08.2021 16:32:09] : Text Content of Tag OPTION has been listed. [ "QA-специалист" ]
+[21.08.2021 16:32:09] : Text Content of Tag OPTION has been listed. [ "С#-разработчик" ]
+[21.08.2021 16:32:09] : Text Content of Tag OPTION has been listed. [ "Другое (свой вариант)" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag BR has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag LABEL has been listed. [ "Я прочитал Политику защиты и обработки персональных данных и согласен с ней" ]
+[21.08.2021 16:32:09] : Text Content of Tag BUTTON has been listed. [ "
             Отправить        " ]
-[21.08.2021 10:36:32] : Text Content of Tag H2 has been listed. [ "Остались вопросы?" ]
-[21.08.2021 10:36:32] : Text Content of Tag FORM has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag SECTION has been listed. [ "
+    
+        Остались вопросы?
+        Напишите нам
+    
+    
+        
+            Close
+            
+        
+
+        Задайте вопрос
+        
+        
+        
+                
+        Осталось: 2000 символов        Необходимо выбрать хотя бы один курс
+        
+                        
+        
+        
+            
+            Я прочитал Политику защиты и обработки персональных данных и согласен с ней
+        
+        
+        Отправить        
+
+
+        
+    
+" ]
+[21.08.2021 16:32:09] : Text Content of Tag H2 has been listed. [ "Остались вопросы?" ]
+[21.08.2021 16:32:09] : Text Content of Tag FORM has been listed. [ "
         Задайте вопрос
         
         
@@ -583,202 +670,184 @@
         
         Отправить        
 " ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag H2 has been listed. [ "Задайте вопрос" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag TEXTAREA has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag LABEL has been listed. [ "Я прочитал Политику защиты и обработки персональных данных и согласен с ней" ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "Я прочитал Политику защиты и обработки персональных данных и согласен с ней" ]
-[21.08.2021 10:36:32] : Text Content of Tag BUTTON has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag H2 has been listed. [ "Задайте вопрос" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag TEXTAREA has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag LABEL has been listed. [ "Я прочитал Политику защиты и обработки персональных данных и согласен с ней" ]
+[21.08.2021 16:32:09] : Text Content of Tag BUTTON has been listed. [ "
         Отправить        " ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "8-800-200-9924" ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "[email protected]" ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "[email protected]" ]
-[21.08.2021 10:36:32] : Text Content of Tag H4 has been listed. [ "Решения " ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag H4 has been listed. [ "Решения " ]
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     Для банков" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     Для страховых" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     Оценка IT-проектов" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     Data Science" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     Автоматизация бизнеса" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     ShopChat" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     Food Tech" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     Для медицинской сферы" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     Для промышленности" ]
-[21.08.2021 10:36:32] : Text Content of Tag H4 has been listed. [ "Услуги " ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag H4 has been listed. [ "Услуги " ]
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     IT-продукт под ключ" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     Аутсорсинг" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     Модернизация ПО" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     «Спасти» продукт" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     Обеспечение качества" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     QA-консалтинг" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     Техподдержка production и разработки" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     Jira Service" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     IT-архитектура" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     UX-аудит" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     Внедрение Битрикс24" ]
-[21.08.2021 10:36:32] : Text Content of Tag H4 has been listed. [ "Портфолио " ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag H4 has been listed. [ "Портфолио " ]
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     Технологии" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     Отрасли" ]
-[21.08.2021 10:36:32] : Text Content of Tag H4 has been listed. [ "О нас " ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag H4 has been listed. [ "О нас " ]
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     О компании" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     Награды" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     Клиенты" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     Наши процессы" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     Новости" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     Менеджмент" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     Контакты" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     Социальная ответственность" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                     Блог" ]
-[21.08.2021 10:36:32] : Text Content of Tag H4 has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag H4 has been listed. [ "
         Технологии 
     " ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                 
                     1C                
             " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                 
                     Android                
             " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                 
                     Bitrix                
             " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                 
                     C#/.NET                
             " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                 
                     C++                
             " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                 
                     DevOps                
             " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                 
                     Go                
             " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                 
                     iOS                
             " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                 
                     Java                
             " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                 
                     JavaScript                
             " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                 
                     PHP                
             " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                 
                     Python                
             " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                 
                     QA                
             " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                 
                     SDET                
             " ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                                 
                                     
                                 
                             " ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                                 
                                     
                                 
                             " ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                                 
                                     
                                 
                             " ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                                 
                                     
                                 
                             " ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                                 
                                     
                                 
                             " ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                                 
                                     
                                 
                             " ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag LI has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag LI has been listed. [ "
                                 
                                     
                                 
                             " ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag FORM has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag FORM has been listed. [ "
         
         Напишите нам
         
@@ -811,1370 +880,216 @@
         
             Отправить        
     " ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag H2 has been listed. [ "Напишите нам" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag TEXTAREA has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag LABEL has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag H2 has been listed. [ "Напишите нам" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag TEXTAREA has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag LABEL has been listed. [ "
                 Прикрепите файлы
             " ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "
-                Расширения файлов: 'doc', 'pdf', 'xls', 'jpg', 'png', 'docx', 'xlsx', архивы
-                Максимальный размер файла - 10 Мб
-                
-            " ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "Расширения файлов: 'doc', 'pdf', 'xls', 'jpg', 'png', 'docx', 'xlsx', архивы" ]
-[21.08.2021 10:36:32] : Text Content of Tag BR has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "Максимальный размер файла - 10 Мб" ]
-[21.08.2021 10:36:32] : Text Content of Tag BR has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:36:32] : Text Content of Tag LABEL has been listed. [ "Я прочитал Политику защиты и обработки персональных данных и согласен с ней" ]
-[21.08.2021 10:36:32] : Text Content of Tag SPAN has been listed. [ "Я прочитал Политику защиты и обработки персональных данных и согласен с ней" ]
-[21.08.2021 10:36:32] : Text Content of Tag BUTTON has been listed. [ "
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag BR has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag BR has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag INPUT has been listed. [ "" ]
+[21.08.2021 16:32:09] : Text Content of Tag LABEL has been listed. [ "Я прочитал Политику защиты и обработки персональных данных и согласен с ней" ]
+[21.08.2021 16:32:09] : Text Content of Tag BUTTON has been listed. [ "
             Отправить        " ]
-[21.08.2021 10:36:32] : The page was parsed.
-[21.08.2021 10:36:32] : The sentence was divided into words. Карьера,в,компании,SimbirSoft,вакансии,в,IT-компании
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. Решения
-[21.08.2021 10:36:32] : The sentence was divided into words. Для,банков
-[21.08.2021 10:36:32] : The sentence was divided into words. Для,страховых
-[21.08.2021 10:36:32] : The sentence was divided into words. Оценка,IT-проектов
-[21.08.2021 10:36:32] : The sentence was divided into words. Data,Science
-[21.08.2021 10:36:32] : The sentence was divided into words. Автоматизация,бизнеса
-[21.08.2021 10:36:32] : The sentence was divided into words. ShopChat
-[21.08.2021 10:36:32] : The sentence was divided into words. Food,Tech
-[21.08.2021 10:36:32] : The sentence was divided into words. Для,медицинской,сферы
-[21.08.2021 10:36:32] : The sentence was divided into words. Для,промышленности
-[21.08.2021 10:36:32] : The sentence was divided into words. Услуги
-[21.08.2021 10:36:32] : The sentence was divided into words. IT-продукт,под,ключ
-[21.08.2021 10:36:32] : The sentence was divided into words. Аутсорсинг
-[21.08.2021 10:36:32] : The sentence was divided into words. Модернизация,ПО
-[21.08.2021 10:36:32] : The sentence was divided into words. Спасти,продукт
-[21.08.2021 10:36:32] : The sentence was divided into words. Обеспечение,качества
-[21.08.2021 10:36:32] : The sentence was divided into words. QA-консалтинг
-[21.08.2021 10:36:32] : The sentence was divided into words. Техподдержка,production,и,разработки
-[21.08.2021 10:36:32] : The sentence was divided into words. Jira,Service
-[21.08.2021 10:36:32] : The sentence was divided into words. IT-архитектура
-[21.08.2021 10:36:32] : The sentence was divided into words. UX-аудит
-[21.08.2021 10:36:32] : The sentence was divided into words. Внедрение,Битрикс24
-[21.08.2021 10:36:32] : The sentence was divided into words. Портфолио
-[21.08.2021 10:36:32] : The sentence was divided into words. Технологии
-[21.08.2021 10:36:32] : The sentence was divided into words. Отрасли
-[21.08.2021 10:36:32] : The sentence was divided into words. О,нас
-[21.08.2021 10:36:32] : The sentence was divided into words. О,компании
-[21.08.2021 10:36:32] : The sentence was divided into words. Награды
-[21.08.2021 10:36:32] : The sentence was divided into words. Клиенты,и,отзывы
-[21.08.2021 10:36:32] : The sentence was divided into words. Наши,процессы
-[21.08.2021 10:36:32] : The sentence was divided into words. Новости
-[21.08.2021 10:36:32] : The sentence was divided into words. Менеджмент
-[21.08.2021 10:36:32] : The sentence was divided into words. Контакты
-[21.08.2021 10:36:32] : The sentence was divided into words. Социальная,ответственность
-[21.08.2021 10:36:32] : The sentence was divided into words. Карьера
-[21.08.2021 10:36:32] : The sentence was divided into words. Работа
-[21.08.2021 10:36:32] : The sentence was divided into words. Вакансии
-[21.08.2021 10:36:32] : The sentence was divided into words. Начало,карьеры
-[21.08.2021 10:36:32] : The sentence was divided into words. Блог
-[21.08.2021 10:36:32] : The sentence was divided into words. Блог
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. Напишите,нам,8-800-200-9924
-[21.08.2021 10:36:32] : The sentence was divided into words. Напишите,нам,8-800-200-9924
-[21.08.2021 10:36:32] : The sentence was divided into words. Наш,сайт,использует,файлы,cookie,Оставаясь,на,www,simbirsoft,com,вы,подтверждаете,свое,согласие,на,использование,данных,файлов
-[21.08.2021 10:36:32] : The sentence was divided into words. Карьера,в,IT-компании,SimbirSoft
-[21.08.2021 10:36:32] : The sentence was divided into words. Вы,студент,математик,физик,или,IT-шник
-[21.08.2021 10:36:32] : The sentence was divided into words. Ваша,работа,не,связана,с,IT,но,программирование,ваше,хобби
-[21.08.2021 10:36:32] : The sentence was divided into words. Имеете,опыт,работы,в,другой,отрасли,и,решили,начать,с,нуля,в,IT
-[21.08.2021 10:36:32] : The sentence was divided into words. Начать,просто
-[21.08.2021 10:36:32] : The sentence was divided into words. Пришлите,нам,свое,резюме
-[21.08.2021 10:36:32] : The sentence was divided into words. Выполните,тестовое,задание
-[21.08.2021 10:36:32] : The sentence was divided into words. Пройдите,IT-практикум
-[21.08.2021 10:36:32] : The sentence was divided into words. Вопрос-ответ
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. ПРИСОЕДИНЯЙСЯ,К,НАМ,Прикрепите,своё,резюме*,Расширения,файла,doc,docx,pdf,png,Максимальный,размер,файла,-,10,Мб,Я,прочитал,Политику,защиты,и,обработки,персональных,данных,и,согласен,с,ней,Отправить
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. ПРИСОЕДИНЯЙСЯ,К,НАМ
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. Расширения,файла,doc,docx,pdf,png,Максимальный,размер,файла,-,10,Мб
-[21.08.2021 10:36:32] : The sentence was divided into words. Расширения,файла,doc,docx,pdf,png
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. Максимальный,размер,файла,-,10,Мб
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. Я,прочитал,Политику,защиты,и,обработки,персональных,данных,и,согласен,с,ней
-[21.08.2021 10:36:32] : The sentence was divided into words. Я,прочитал,Политику,защиты,и,обработки,персональных,данных,и,согласен,с,ней
-[21.08.2021 10:36:32] : The sentence was divided into words. Отправить
-[21.08.2021 10:36:32] : The sentence was divided into words. Тестовое,задание,Направление*,Java-разработчик,JS-разработчик,QA-специалист,С#-разработчик,Другое,свой,вариант,Прикрепите,файл*,Расширения,файла,doc,docx,pdf,png,Максимальный,размер,файла,-,10,Мб,Я,прочитал,Политику,защиты,и,обработки,персональных,данных,и,согласен,с,ней,Отправить
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. Тестовое,задание
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. Направление*,Java-разработчик,JS-разработчик,QA-специалист,С#-разработчик,Другое,свой,вариант
-[21.08.2021 10:36:32] : The sentence was divided into words. Направление*
-[21.08.2021 10:36:32] : The sentence was divided into words. Java-разработчик
-[21.08.2021 10:36:32] : The sentence was divided into words. JS-разработчик
-[21.08.2021 10:36:32] : The sentence was divided into words. QA-специалист
-[21.08.2021 10:36:32] : The sentence was divided into words. С#-разработчик
-[21.08.2021 10:36:32] : The sentence was divided into words. Другое,свой,вариант
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. Расширения,файла,doc,docx,pdf,png,Максимальный,размер,файла,-,10,Мб
-[21.08.2021 10:36:32] : The sentence was divided into words. Расширения,файла,doc,docx,pdf,png
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. Максимальный,размер,файла,-,10,Мб
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. Я,прочитал,Политику,защиты,и,обработки,персональных,данных,и,согласен,с,ней
-[21.08.2021 10:36:32] : The sentence was divided into words. Я,прочитал,Политику,защиты,и,обработки,персональных,данных,и,согласен,с,ней
-[21.08.2021 10:36:32] : The sentence was divided into words. Отправить
-[21.08.2021 10:36:32] : The sentence was divided into words. Остались,вопросы
-[21.08.2021 10:36:32] : The sentence was divided into words. Задайте,вопрос,Осталось,2000,символов,Необходимо,выбрать,хотя,бы,один,курс,Я,прочитал,Политику,защиты,и,обработки,персональных,данных,и,согласен,с,ней,Отправить
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. Задайте,вопрос
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. Я,прочитал,Политику,защиты,и,обработки,персональных,данных,и,согласен,с,ней
-[21.08.2021 10:36:32] : The sentence was divided into words. Я,прочитал,Политику,защиты,и,обработки,персональных,данных,и,согласен,с,ней
-[21.08.2021 10:36:32] : The sentence was divided into words. Отправить
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 8-800-200-9924
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. email protected
-[21.08.2021 10:36:32] : The sentence was divided into words. email protected
-[21.08.2021 10:36:32] : The sentence was divided into words. Решения
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. Для,банков
-[21.08.2021 10:36:32] : The sentence was divided into words. Для,страховых
-[21.08.2021 10:36:32] : The sentence was divided into words. Оценка,IT-проектов
-[21.08.2021 10:36:32] : The sentence was divided into words. Data,Science
-[21.08.2021 10:36:32] : The sentence was divided into words. Автоматизация,бизнеса
-[21.08.2021 10:36:32] : The sentence was divided into words. ShopChat
-[21.08.2021 10:36:32] : The sentence was divided into words. Food,Tech
-[21.08.2021 10:36:32] : The sentence was divided into words. Для,медицинской,сферы
-[21.08.2021 10:36:32] : The sentence was divided into words. Для,промышленности
-[21.08.2021 10:36:32] : The sentence was divided into words. Услуги
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. IT-продукт,под,ключ
-[21.08.2021 10:36:32] : The sentence was divided into words. Аутсорсинг
-[21.08.2021 10:36:32] : The sentence was divided into words. Модернизация,ПО
-[21.08.2021 10:36:32] : The sentence was divided into words. Спасти,продукт
-[21.08.2021 10:36:32] : The sentence was divided into words. Обеспечение,качества
-[21.08.2021 10:36:32] : The sentence was divided into words. QA-консалтинг
-[21.08.2021 10:36:32] : The sentence was divided into words. Техподдержка,production,и,разработки
-[21.08.2021 10:36:32] : The sentence was divided into words. Jira,Service
-[21.08.2021 10:36:32] : The sentence was divided into words. IT-архитектура
-[21.08.2021 10:36:32] : The sentence was divided into words. UX-аудит
-[21.08.2021 10:36:32] : The sentence was divided into words. Внедрение,Битрикс24
-[21.08.2021 10:36:32] : The sentence was divided into words. Портфолио
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. Технологии
-[21.08.2021 10:36:32] : The sentence was divided into words. Отрасли
-[21.08.2021 10:36:32] : The sentence was divided into words. О,нас
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. О,компании
-[21.08.2021 10:36:32] : The sentence was divided into words. Награды
-[21.08.2021 10:36:32] : The sentence was divided into words. Клиенты
-[21.08.2021 10:36:32] : The sentence was divided into words. Наши,процессы
-[21.08.2021 10:36:32] : The sentence was divided into words. Новости
-[21.08.2021 10:36:32] : The sentence was divided into words. Менеджмент
-[21.08.2021 10:36:32] : The sentence was divided into words. Контакты
-[21.08.2021 10:36:32] : The sentence was divided into words. Социальная,ответственность
-[21.08.2021 10:36:32] : The sentence was divided into words. Блог
-[21.08.2021 10:36:32] : The sentence was divided into words. Технологии
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 1C
-[21.08.2021 10:36:32] : The sentence was divided into words. Android
-[21.08.2021 10:36:32] : The sentence was divided into words. Bitrix
-[21.08.2021 10:36:32] : The sentence was divided into words. C#/,NET
-[21.08.2021 10:36:32] : The sentence was divided into words. C++
-[21.08.2021 10:36:32] : The sentence was divided into words. DevOps
-[21.08.2021 10:36:32] : The sentence was divided into words. Go
-[21.08.2021 10:36:32] : The sentence was divided into words. iOS
-[21.08.2021 10:36:32] : The sentence was divided into words. Java
-[21.08.2021 10:36:32] : The sentence was divided into words. JavaScript
-[21.08.2021 10:36:32] : The sentence was divided into words. PHP
-[21.08.2021 10:36:32] : The sentence was divided into words. Python
-[21.08.2021 10:36:32] : The sentence was divided into words. QA
-[21.08.2021 10:36:32] : The sentence was divided into words. SDET
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. Напишите,нам,Осталось,2000,символов,Прикрепите,файлы,Расширения,файлов,doc,pdf,xls,jpg,png,docx,xlsx,архивы,Максимальный,размер,файла,-,10,Мб,Я,прочитал,Политику,защиты,и,обработки,персональных,данных,и,согласен,с,ней,Отправить
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. Напишите,нам
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. Прикрепите,файлы
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. Расширения,файлов,doc,pdf,xls,jpg,png,docx,xlsx,архивы,Максимальный,размер,файла,-,10,Мб
-[21.08.2021 10:36:32] : The sentence was divided into words. Расширения,файлов,doc,pdf,xls,jpg,png,docx,xlsx,архивы
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. Максимальный,размер,файла,-,10,Мб
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. 
-[21.08.2021 10:36:32] : The sentence was divided into words. Я,прочитал,Политику,защиты,и,обработки,персональных,данных,и,согласен,с,ней
-[21.08.2021 10:36:32] : The sentence was divided into words. Я,прочитал,Политику,защиты,и,обработки,персональных,данных,и,согласен,с,ней
-[21.08.2021 10:36:32] : The sentence was divided into words. Отправить
-[21.08.2021 10:37:19] : Database connection opened.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('КАРЬЕРА',3) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('В',5) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('КОМПАНИИ',3) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('SIMBIRSOFT',3) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ВАКАНСИИ',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('IT-КОМПАНИИ',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('РЕШЕНИЯ',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ДЛЯ',8) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('БАНКОВ',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('СТРАХОВЫХ',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ОЦЕНКА',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('IT-ПРОЕКТОВ',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('DATA',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('SCIENCE',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('АВТОМАТИЗАЦИЯ',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('БИЗНЕСА',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('SHOPCHAT',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('FOOD',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('TECH',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('МЕДИЦИНСКОЙ',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('СФЕРЫ',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ПРОМЫШЛЕННОСТИ',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('УСЛУГИ',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('IT-ПРОДУКТ',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ПОД',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('КЛЮЧ',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('АУТСОРСИНГ',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('МОДЕРНИЗАЦИЯ',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ПО',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('СПАСТИ',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ПРОДУКТ',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ОБЕСПЕЧЕНИЕ',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('КАЧЕСТВА',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('QA-КОНСАЛТИНГ',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ТЕХПОДДЕРЖКА',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('PRODUCTION',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('И',28) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('РАЗРАБОТКИ',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('JIRA',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('SERVICE',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('IT-АРХИТЕКТУРА',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('UX-АУДИТ',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ВНЕДРЕНИЕ',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('БИТРИКС24',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ПОРТФОЛИО',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ТЕХНОЛОГИИ',3) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ОТРАСЛИ',3) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('О',4) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('НАС',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('НАГРАДЫ',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('КЛИЕНТЫ',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ОТЗЫВЫ',1) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('НАШИ',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ПРОЦЕССЫ',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('НОВОСТИ',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('МЕНЕДЖМЕНТ',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('КОНТАКТЫ',2) was executed.
-[21.08.2021 10:37:20] : Command INSERT INTO CountedWords (Word,Count) VALUES ('СОЦИАЛЬНАЯ',2) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ОТВЕТСТВЕННОСТЬ',2) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('РАБОТА',2) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('НАЧАЛО',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('КАРЬЕРЫ',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('БЛОГ',3) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('НАПИШИТЕ',4) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('НАМ',7) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('8-800-200-9924',3) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('НАШ',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('САЙТ',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ИСПОЛЬЗУЕТ',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ФАЙЛЫ',3) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('COOKIE',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ОСТАВАЯСЬ',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('НА',2) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('WWW',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('COM',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ВЫ',2) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ПОДТВЕРЖДАЕТЕ',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('СВОЕ',2) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('СОГЛАСИЕ',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ИСПОЛЬЗОВАНИЕ',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ДАННЫХ',13) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ФАЙЛОВ',4) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('СТУДЕНТ',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('МАТЕМАТИК',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ФИЗИК',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ИЛИ',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('IT-ШНИК',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ВАША',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('НЕ',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('СВЯЗАНА',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('С',14) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('IT',2) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('НО',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ПРОГРАММИРОВАНИЕ',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ВАШЕ',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ХОББИ',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ИМЕЕТЕ',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ОПЫТ',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('РАБОТЫ',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ДРУГОЙ',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('РЕШИЛИ',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('НАЧАТЬ',2) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('НУЛЯ',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ПРОСТО',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ПРИШЛИТЕ',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('РЕЗЮМЕ',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ВЫПОЛНИТЕ',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ТЕСТОВОЕ',3) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ЗАДАНИЕ',3) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ПРОЙДИТЕ',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('IT-ПРАКТИКУМ',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ВОПРОС-ОТВЕТ',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ПРИСОЕДИНЯЙСЯ',2) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('К',2) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ПРИКРЕПИТЕ',4) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('СВОЁ',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('РЕЗЮМЕ*',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('РАСШИРЕНИЯ',9) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ФАЙЛА',15) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('DOC',9) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('DOCX',9) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('PDF',9) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('PNG',9) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('МАКСИМАЛЬНЫЙ',9) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('РАЗМЕР',9) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('-',9) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('10',9) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('МБ',9) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('Я',12) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ПРОЧИТАЛ',12) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ПОЛИТИКУ',12) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ЗАЩИТЫ',12) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ОБРАБОТКИ',12) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ПЕРСОНАЛЬНЫХ',12) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('СОГЛАСЕН',12) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('НЕЙ',12) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ОТПРАВИТЬ',8) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('НАПРАВЛЕНИЕ*',3) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('JAVA-РАЗРАБОТЧИК',3) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('JS-РАЗРАБОТЧИК',3) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('QA-СПЕЦИАЛИСТ',3) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('С#-РАЗРАБОТЧИК',3) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ДРУГОЕ',3) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('СВОЙ',3) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ВАРИАНТ',3) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ФАЙЛ*',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ОСТАЛИСЬ',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ВОПРОСЫ',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ЗАДАЙТЕ',2) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ВОПРОС',2) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ОСТАЛОСЬ',2) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('2000',2) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('СИМВОЛОВ',2) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('НЕОБХОДИМО',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ВЫБРАТЬ',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ХОТЯ',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('БЫ',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ОДИН',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('КУРС',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('EMAIL PROTECTED',2) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('1C',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('ANDROID',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('BITRIX',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('C#/',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('NET',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('C++',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('DEVOPS',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('GO',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('IOS',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('JAVA',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('JAVASCRIPT',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('PHP',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('PYTHON',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('QA',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('SDET',1) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('XLS',3) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('JPG',3) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('XLSX',3) was executed.
-[21.08.2021 10:37:21] : Command INSERT INTO CountedWords (Word,Count) VALUES ('АРХИВЫ',3) was executed.
-[21.08.2021 10:37:21] : Database connection closed.
-[21.08.2021 10:48:51] : Parser was connected to https://www.simbirsoft.com/career/. StatusCode = OK
-[21.08.2021 10:48:51] : Element TITLE has been listed.
-[21.08.2021 10:48:51] : Element NOSCRIPT has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element P has been listed.
-[21.08.2021 10:48:51] : Element H1 has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element H2 has been listed.
-[21.08.2021 10:48:51] : Element H2 has been listed.
-[21.08.2021 10:48:51] : Element BR has been listed.
-[21.08.2021 10:48:51] : Element BR has been listed.
-[21.08.2021 10:48:51] : Element BR has been listed.
-[21.08.2021 10:48:51] : Element BR has been listed.
-[21.08.2021 10:48:51] : Element BR has been listed.
-[21.08.2021 10:48:51] : Element BR has been listed.
-[21.08.2021 10:48:51] : Element BR has been listed.
-[21.08.2021 10:48:51] : Element BR has been listed.
-[21.08.2021 10:48:51] : Element BR has been listed.
-[21.08.2021 10:48:51] : Element BR has been listed.
-[21.08.2021 10:48:51] : Element FORM has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element H4 has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element BR has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element LABEL has been listed.
-[21.08.2021 10:48:51] : Element BUTTON has been listed.
-[21.08.2021 10:48:51] : Element FORM has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element H2 has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element SELECT has been listed.
-[21.08.2021 10:48:51] : Element OPTION has been listed.
-[21.08.2021 10:48:51] : Element OPTION has been listed.
-[21.08.2021 10:48:51] : Element OPTION has been listed.
-[21.08.2021 10:48:51] : Element OPTION has been listed.
-[21.08.2021 10:48:51] : Element OPTION has been listed.
-[21.08.2021 10:48:51] : Element OPTION has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element BR has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element LABEL has been listed.
-[21.08.2021 10:48:51] : Element BUTTON has been listed.
-[21.08.2021 10:48:51] : Element H2 has been listed.
-[21.08.2021 10:48:51] : Element FORM has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element H2 has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element TEXTAREA has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element LABEL has been listed.
-[21.08.2021 10:48:51] : Element BUTTON has been listed.
-[21.08.2021 10:48:51] : Element H4 has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element H4 has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element H4 has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element H4 has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element H4 has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element LI has been listed.
-[21.08.2021 10:48:51] : Element FORM has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element H2 has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element TEXTAREA has been listed.
-[21.08.2021 10:48:51] : Element LABEL has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element BR has been listed.
-[21.08.2021 10:48:51] : Element BR has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element INPUT has been listed.
-[21.08.2021 10:48:51] : Element LABEL has been listed.
-[21.08.2021 10:48:51] : Element BUTTON has been listed.
-[21.08.2021 10:48:51] : Text Content of Tag TITLE has been listed. [ "Карьера в компании SimbirSoft — вакансии в IT-компании" ]
-[21.08.2021 10:48:51] : Text Content of Tag NOSCRIPT has been listed. [ "
-    
-" ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    
-                        Для банков                    
-                " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    
-                        Для страховых                    
-                " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    
-                        Оценка IT-проектов                    
-                " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    
-                        Data Science                    
-                " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    
-                        Автоматизация бизнеса                    
-                " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    
-                        ShopChat                    
-                " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    
-                        Food Tech                    
-                " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    
-                        Для медицинской сферы                    
-                " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    
-                        Для промышленности                    
-                " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    
-                        IT-продукт под ключ                    
-                " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    
-                        Аутсорсинг                    
-                " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    
-                        Модернизация ПО                    
-                " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    
-                        «Спасти» продукт                    
-                " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    
-                        Обеспечение качества                    
-                " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    
-                        QA-консалтинг                    
-                " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    
-                        Техподдержка production и разработки                    
-                " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    
-                        Jira Service                    
-                " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    
-                        IT-архитектура                    
-                " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    
-                        UX-аудит                    
-                " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    
-                        Внедрение Битрикс24                    
-                " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    
-                        Технологии                    
-                " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    
-                        Отрасли                    
-                " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    
-                        О компании                    
-                " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    
-                        Награды                    
-                " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    
-                        Клиенты и отзывы                    
-                " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    
-                        Наши процессы                    
-                " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    
-                        Новости                    
-                " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    
-                        Менеджмент                    
-                " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    
-                        Контакты                    
-                " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    
-                        Социальная ответственность                    
-                " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    
-                        Работа                    
-                " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    
-                        Вакансии                    
-                " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    
-                        Начало карьеры                    
-                " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    
-                        Блог
-                    
-                " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-        
-            
-                
-                    
-                        
-                    
-                
-            
-        
-    " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-          
-              Напишите нам
-              8-800-200-9924
-          
-      " ]
-[21.08.2021 10:48:51] : Text Content of Tag P has been listed. [ "
-                Наш сайт использует файлы cookie. Оставаясь на www.simbirsoft.com, вы подтверждаете свое
-                согласие на использование данных файлов
-            " ]
-[21.08.2021 10:48:51] : Text Content of Tag H1 has been listed. [ "Карьера в IT-компании SimbirSoft" ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "Вы студент математик, физик или IT-шник" ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "Ваша работа не связана с IT, но программирование — ваше хобби" ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "Имеете опыт работы в другой отрасли, и решили начать с нуля в IT" ]
-[21.08.2021 10:48:51] : Text Content of Tag H2 has been listed. [ "Начать просто" ]
-[21.08.2021 10:48:51] : Text Content of Tag H2 has been listed. [ "Вопрос-ответ" ]
-[21.08.2021 10:48:51] : Text Content of Tag BR has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag BR has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag BR has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag BR has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag BR has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag BR has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag BR has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag BR has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag BR has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag BR has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag FORM has been listed. [ "    ПРИСОЕДИНЯЙСЯ К НАМ
-    
-        
-                        
-                
-                    Прикрепите своё резюме*
-                    
-                                             
-                
-                Расширения файла: 'doc', 'docx', 'pdf', 'png'Максимальный размер файла - 10 Мб
-                
-                                    
-            
-        
-        
-            
-                
-                                        
-                
-            
-            
-                
-                    
-                    Я прочитал Политику защиты и обработки персональных данных и согласен с ней
-                
-                
-                    Отправить                
-            
-        
-
-    
-
-" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag H4 has been listed. [ "ПРИСОЕДИНЯЙСЯ К НАМ" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag BR has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag LABEL has been listed. [ "Я прочитал Политику защиты и обработки персональных данных и согласен с ней" ]
-[21.08.2021 10:48:51] : Text Content of Tag BUTTON has been listed. [ "
-                    Отправить                " ]
-[21.08.2021 10:48:51] : Text Content of Tag FORM has been listed. [ "
-        
-        Тестовое задание
-                 
-        
-        
-        
-        
-            Направление*
-                            Java-разработчик
-                            JS-разработчик
-                            QA-специалист
-                            С#-разработчик
-                            Другое (свой вариант)
-                    
-        
-        
-            Прикрепите файл*
-            
-                
-                
-            
-            
-            
-                Расширения файла: 'doc', 'docx', 'pdf', 'png'
-                Максимальный размер файла - 10 Мб
-            
-        
-        
-        
-            
-            
-        
-        
-            
-            Я прочитал Политику защиты и обработки персональных данных и согласен с ней
-        
-        
-            Отправить        
-    " ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag H2 has been listed. [ "Тестовое задание" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag SELECT has been listed. [ "
-            Направление*
-                            Java-разработчик
-                            JS-разработчик
-                            QA-специалист
-                            С#-разработчик
-                            Другое (свой вариант)
-                    " ]
-[21.08.2021 10:48:51] : Text Content of Tag OPTION has been listed. [ "Направление*" ]
-[21.08.2021 10:48:51] : Text Content of Tag OPTION has been listed. [ "Java-разработчик" ]
-[21.08.2021 10:48:51] : Text Content of Tag OPTION has been listed. [ "JS-разработчик" ]
-[21.08.2021 10:48:51] : Text Content of Tag OPTION has been listed. [ "QA-специалист" ]
-[21.08.2021 10:48:51] : Text Content of Tag OPTION has been listed. [ "С#-разработчик" ]
-[21.08.2021 10:48:51] : Text Content of Tag OPTION has been listed. [ "Другое (свой вариант)" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag BR has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag LABEL has been listed. [ "Я прочитал Политику защиты и обработки персональных данных и согласен с ней" ]
-[21.08.2021 10:48:51] : Text Content of Tag BUTTON has been listed. [ "
-            Отправить        " ]
-[21.08.2021 10:48:51] : Text Content of Tag H2 has been listed. [ "Остались вопросы?" ]
-[21.08.2021 10:48:51] : Text Content of Tag FORM has been listed. [ "
-        Задайте вопрос
-        
-        
-        
-                
-        Осталось: 2000 символов        Необходимо выбрать хотя бы один курс
-        
-                        
-        
-        
-            
-            Я прочитал Политику защиты и обработки персональных данных и согласен с ней
-        
-        
-        Отправить        
-" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag H2 has been listed. [ "Задайте вопрос" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag TEXTAREA has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag LABEL has been listed. [ "Я прочитал Политику защиты и обработки персональных данных и согласен с ней" ]
-[21.08.2021 10:48:51] : Text Content of Tag BUTTON has been listed. [ "
-        Отправить        " ]
-[21.08.2021 10:48:51] : Text Content of Tag H4 has been listed. [ "Решения " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    Для банков" ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    Для страховых" ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    Оценка IT-проектов" ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    Data Science" ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    Автоматизация бизнеса" ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    ShopChat" ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    Food Tech" ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    Для медицинской сферы" ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    Для промышленности" ]
-[21.08.2021 10:48:51] : Text Content of Tag H4 has been listed. [ "Услуги " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    IT-продукт под ключ" ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    Аутсорсинг" ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    Модернизация ПО" ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    «Спасти» продукт" ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    Обеспечение качества" ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    QA-консалтинг" ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    Техподдержка production и разработки" ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    Jira Service" ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    IT-архитектура" ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    UX-аудит" ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    Внедрение Битрикс24" ]
-[21.08.2021 10:48:51] : Text Content of Tag H4 has been listed. [ "Портфолио " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    Технологии" ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    Отрасли" ]
-[21.08.2021 10:48:51] : Text Content of Tag H4 has been listed. [ "О нас " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    О компании" ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    Награды" ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    Клиенты" ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    Наши процессы" ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    Новости" ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    Менеджмент" ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    Контакты" ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    Социальная ответственность" ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                    Блог" ]
-[21.08.2021 10:48:51] : Text Content of Tag H4 has been listed. [ "
-        Технологии 
-    " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                
-                    1C                
-            " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                
-                    Android                
-            " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                
-                    Bitrix                
-            " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                
-                    C#/.NET                
-            " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                
-                    C++                
-            " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                
-                    DevOps                
-            " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                
-                    Go                
-            " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                
-                    iOS                
-            " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                
-                    Java                
-            " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                
-                    JavaScript                
-            " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                
-                    PHP                
-            " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                
-                    Python                
-            " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                
-                    QA                
-            " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                
-                    SDET                
-            " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                                
-                                    
-                                
-                            " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                                
-                                    
-                                
-                            " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                                
-                                    
-                                
-                            " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                                
-                                    
-                                
-                            " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                                
-                                    
-                                
-                            " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                                
-                                    
-                                
-                            " ]
-[21.08.2021 10:48:51] : Text Content of Tag LI has been listed. [ "
-                                
-                                    
-                                
-                            " ]
-[21.08.2021 10:48:51] : Text Content of Tag FORM has been listed. [ "
-        
-        Напишите нам
-        
-        
-        
-        
-        
-        
-        Осталось: 2000 символов        
-        
-            
-                Прикрепите файлы
-            
-            
-            
-                Расширения файлов: 'doc', 'pdf', 'xls', 'jpg', 'png', 'docx', 'xlsx', архивы
-                Максимальный размер файла - 10 Мб
-                
-            
-        
-        
-        
-            
-            
-        
-        
-            
-            Я прочитал Политику защиты и обработки персональных данных и согласен с ней
-        
-        
-            Отправить        
-    " ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag H2 has been listed. [ "Напишите нам" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag TEXTAREA has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag LABEL has been listed. [ "
-                Прикрепите файлы
-            " ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag BR has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag BR has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag INPUT has been listed. [ "" ]
-[21.08.2021 10:48:51] : Text Content of Tag LABEL has been listed. [ "Я прочитал Политику защиты и обработки персональных данных и согласен с ней" ]
-[21.08.2021 10:48:51] : Text Content of Tag BUTTON has been listed. [ "
-            Отправить        " ]
-[21.08.2021 10:48:51] : The page was parsed.
-[21.08.2021 10:48:52] : The sentence was divided into words. Карьера,в,компании,SimbirSoft,вакансии,в,IT-компании
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. Для,банков
-[21.08.2021 10:48:52] : The sentence was divided into words. Для,страховых
-[21.08.2021 10:48:52] : The sentence was divided into words. Оценка,IT-проектов
-[21.08.2021 10:48:52] : The sentence was divided into words. Data,Science
-[21.08.2021 10:48:52] : The sentence was divided into words. Автоматизация,бизнеса
-[21.08.2021 10:48:52] : The sentence was divided into words. ShopChat
-[21.08.2021 10:48:52] : The sentence was divided into words. Food,Tech
-[21.08.2021 10:48:52] : The sentence was divided into words. Для,медицинской,сферы
-[21.08.2021 10:48:52] : The sentence was divided into words. Для,промышленности
-[21.08.2021 10:48:52] : The sentence was divided into words. IT-продукт,под,ключ
-[21.08.2021 10:48:52] : The sentence was divided into words. Аутсорсинг
-[21.08.2021 10:48:52] : The sentence was divided into words. Модернизация,ПО
-[21.08.2021 10:48:52] : The sentence was divided into words. Спасти,продукт
-[21.08.2021 10:48:52] : The sentence was divided into words. Обеспечение,качества
-[21.08.2021 10:48:52] : The sentence was divided into words. QA-консалтинг
-[21.08.2021 10:48:52] : The sentence was divided into words. Техподдержка,production,и,разработки
-[21.08.2021 10:48:52] : The sentence was divided into words. Jira,Service
-[21.08.2021 10:48:52] : The sentence was divided into words. IT-архитектура
-[21.08.2021 10:48:52] : The sentence was divided into words. UX-аудит
-[21.08.2021 10:48:52] : The sentence was divided into words. Внедрение,Битрикс24
-[21.08.2021 10:48:52] : The sentence was divided into words. Технологии
-[21.08.2021 10:48:52] : The sentence was divided into words. Отрасли
-[21.08.2021 10:48:52] : The sentence was divided into words. О,компании
-[21.08.2021 10:48:52] : The sentence was divided into words. Награды
-[21.08.2021 10:48:52] : The sentence was divided into words. Клиенты,и,отзывы
-[21.08.2021 10:48:52] : The sentence was divided into words. Наши,процессы
-[21.08.2021 10:48:52] : The sentence was divided into words. Новости
-[21.08.2021 10:48:52] : The sentence was divided into words. Менеджмент
-[21.08.2021 10:48:52] : The sentence was divided into words. Контакты
-[21.08.2021 10:48:52] : The sentence was divided into words. Социальная,ответственность
-[21.08.2021 10:48:52] : The sentence was divided into words. Работа
-[21.08.2021 10:48:52] : The sentence was divided into words. Вакансии
-[21.08.2021 10:48:52] : The sentence was divided into words. Начало,карьеры
-[21.08.2021 10:48:52] : The sentence was divided into words. Блог
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. Напишите,нам,8-800-200-9924
-[21.08.2021 10:48:52] : The sentence was divided into words. Наш,сайт,использует,файлы,cookie,Оставаясь,на,www,simbirsoft,com,вы,подтверждаете,свое,согласие,на,использование,данных,файлов
-[21.08.2021 10:48:52] : The sentence was divided into words. Карьера,в,IT-компании,SimbirSoft
-[21.08.2021 10:48:52] : The sentence was divided into words. Вы,студент,математик,физик,или,IT-шник
-[21.08.2021 10:48:52] : The sentence was divided into words. Ваша,работа,не,связана,с,IT,но,программирование,ваше,хобби
-[21.08.2021 10:48:52] : The sentence was divided into words. Имеете,опыт,работы,в,другой,отрасли,и,решили,начать,с,нуля,в,IT
-[21.08.2021 10:48:52] : The sentence was divided into words. Начать,просто
-[21.08.2021 10:48:52] : The sentence was divided into words. Вопрос-ответ
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. ПРИСОЕДИНЯЙСЯ,К,НАМ,Прикрепите,своё,резюме*,Расширения,файла,doc,docx,pdf,png,Максимальный,размер,файла,-,10,Мб,Я,прочитал,Политику,защиты,и,обработки,персональных,данных,и,согласен,с,ней,Отправить
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. ПРИСОЕДИНЯЙСЯ,К,НАМ
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. Я,прочитал,Политику,защиты,и,обработки,персональных,данных,и,согласен,с,ней
-[21.08.2021 10:48:52] : The sentence was divided into words. Отправить
-[21.08.2021 10:48:52] : The sentence was divided into words. Тестовое,задание,Направление*,Java-разработчик,JS-разработчик,QA-специалист,С#-разработчик,Другое,свой,вариант,Прикрепите,файл*,Расширения,файла,doc,docx,pdf,png,Максимальный,размер,файла,-,10,Мб,Я,прочитал,Политику,защиты,и,обработки,персональных,данных,и,согласен,с,ней,Отправить
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. Тестовое,задание
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. Направление*,Java-разработчик,JS-разработчик,QA-специалист,С#-разработчик,Другое,свой,вариант
-[21.08.2021 10:48:52] : The sentence was divided into words. Направление*
-[21.08.2021 10:48:52] : The sentence was divided into words. Java-разработчик
-[21.08.2021 10:48:52] : The sentence was divided into words. JS-разработчик
-[21.08.2021 10:48:52] : The sentence was divided into words. QA-специалист
-[21.08.2021 10:48:52] : The sentence was divided into words. С#-разработчик
-[21.08.2021 10:48:52] : The sentence was divided into words. Другое,свой,вариант
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. Я,прочитал,Политику,защиты,и,обработки,персональных,данных,и,согласен,с,ней
-[21.08.2021 10:48:52] : The sentence was divided into words. Отправить
-[21.08.2021 10:48:52] : The sentence was divided into words. Остались,вопросы
-[21.08.2021 10:48:52] : The sentence was divided into words. Задайте,вопрос,Осталось,2000,символов,Необходимо,выбрать,хотя,бы,один,курс,Я,прочитал,Политику,защиты,и,обработки,персональных,данных,и,согласен,с,ней,Отправить
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. Задайте,вопрос
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. Я,прочитал,Политику,защиты,и,обработки,персональных,данных,и,согласен,с,ней
-[21.08.2021 10:48:52] : The sentence was divided into words. Отправить
-[21.08.2021 10:48:52] : The sentence was divided into words. Решения
-[21.08.2021 10:48:52] : The sentence was divided into words. Для,банков
-[21.08.2021 10:48:52] : The sentence was divided into words. Для,страховых
-[21.08.2021 10:48:52] : The sentence was divided into words. Оценка,IT-проектов
-[21.08.2021 10:48:52] : The sentence was divided into words. Data,Science
-[21.08.2021 10:48:52] : The sentence was divided into words. Автоматизация,бизнеса
-[21.08.2021 10:48:52] : The sentence was divided into words. ShopChat
-[21.08.2021 10:48:52] : The sentence was divided into words. Food,Tech
-[21.08.2021 10:48:52] : The sentence was divided into words. Для,медицинской,сферы
-[21.08.2021 10:48:52] : The sentence was divided into words. Для,промышленности
-[21.08.2021 10:48:52] : The sentence was divided into words. Услуги
-[21.08.2021 10:48:52] : The sentence was divided into words. IT-продукт,под,ключ
-[21.08.2021 10:48:52] : The sentence was divided into words. Аутсорсинг
-[21.08.2021 10:48:52] : The sentence was divided into words. Модернизация,ПО
-[21.08.2021 10:48:52] : The sentence was divided into words. Спасти,продукт
-[21.08.2021 10:48:52] : The sentence was divided into words. Обеспечение,качества
-[21.08.2021 10:48:52] : The sentence was divided into words. QA-консалтинг
-[21.08.2021 10:48:52] : The sentence was divided into words. Техподдержка,production,и,разработки
-[21.08.2021 10:48:52] : The sentence was divided into words. Jira,Service
-[21.08.2021 10:48:52] : The sentence was divided into words. IT-архитектура
-[21.08.2021 10:48:52] : The sentence was divided into words. UX-аудит
-[21.08.2021 10:48:52] : The sentence was divided into words. Внедрение,Битрикс24
-[21.08.2021 10:48:52] : The sentence was divided into words. Портфолио
-[21.08.2021 10:48:52] : The sentence was divided into words. Технологии
-[21.08.2021 10:48:52] : The sentence was divided into words. Отрасли
-[21.08.2021 10:48:52] : The sentence was divided into words. О,нас
-[21.08.2021 10:48:52] : The sentence was divided into words. О,компании
-[21.08.2021 10:48:52] : The sentence was divided into words. Награды
-[21.08.2021 10:48:52] : The sentence was divided into words. Клиенты
-[21.08.2021 10:48:52] : The sentence was divided into words. Наши,процессы
-[21.08.2021 10:48:52] : The sentence was divided into words. Новости
-[21.08.2021 10:48:52] : The sentence was divided into words. Менеджмент
-[21.08.2021 10:48:52] : The sentence was divided into words. Контакты
-[21.08.2021 10:48:52] : The sentence was divided into words. Социальная,ответственность
-[21.08.2021 10:48:52] : The sentence was divided into words. Блог
-[21.08.2021 10:48:52] : The sentence was divided into words. Технологии
-[21.08.2021 10:48:52] : The sentence was divided into words. 1C
-[21.08.2021 10:48:52] : The sentence was divided into words. Android
-[21.08.2021 10:48:52] : The sentence was divided into words. Bitrix
-[21.08.2021 10:48:52] : The sentence was divided into words. C#/,NET
-[21.08.2021 10:48:52] : The sentence was divided into words. C++
-[21.08.2021 10:48:52] : The sentence was divided into words. DevOps
-[21.08.2021 10:48:52] : The sentence was divided into words. Go
-[21.08.2021 10:48:52] : The sentence was divided into words. iOS
-[21.08.2021 10:48:52] : The sentence was divided into words. Java
-[21.08.2021 10:48:52] : The sentence was divided into words. JavaScript
-[21.08.2021 10:48:52] : The sentence was divided into words. PHP
-[21.08.2021 10:48:52] : The sentence was divided into words. Python
-[21.08.2021 10:48:52] : The sentence was divided into words. QA
-[21.08.2021 10:48:52] : The sentence was divided into words. SDET
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. Напишите,нам,Осталось,2000,символов,Прикрепите,файлы,Расширения,файлов,doc,pdf,xls,jpg,png,docx,xlsx,архивы,Максимальный,размер,файла,-,10,Мб,Я,прочитал,Политику,защиты,и,обработки,персональных,данных,и,согласен,с,ней,Отправить
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. Напишите,нам
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. Прикрепите,файлы
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. 
-[21.08.2021 10:48:52] : The sentence was divided into words. Я,прочитал,Политику,защиты,и,обработки,персональных,данных,и,согласен,с,ней
-[21.08.2021 10:48:52] : The sentence was divided into words. Отправить
+[21.08.2021 16:32:09] : The page was parsed.
+[21.08.2021 16:32:09] : The sentence was divided into words. Карьера,в,компании,SimbirSoft,вакансии,в,IT-компании
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. Для,банков
+[21.08.2021 16:32:09] : The sentence was divided into words. Для,страховых
+[21.08.2021 16:32:09] : The sentence was divided into words. Оценка,IT-проектов
+[21.08.2021 16:32:09] : The sentence was divided into words. Data,Science
+[21.08.2021 16:32:09] : The sentence was divided into words. Автоматизация,бизнеса
+[21.08.2021 16:32:09] : The sentence was divided into words. ShopChat
+[21.08.2021 16:32:09] : The sentence was divided into words. Food,Tech
+[21.08.2021 16:32:09] : The sentence was divided into words. Для,медицинской,сферы
+[21.08.2021 16:32:09] : The sentence was divided into words. Для,промышленности
+[21.08.2021 16:32:09] : The sentence was divided into words. IT-продукт,под,ключ
+[21.08.2021 16:32:09] : The sentence was divided into words. Аутсорсинг
+[21.08.2021 16:32:09] : The sentence was divided into words. Модернизация,ПО
+[21.08.2021 16:32:09] : The sentence was divided into words. Спасти,продукт
+[21.08.2021 16:32:09] : The sentence was divided into words. Обеспечение,качества
+[21.08.2021 16:32:09] : The sentence was divided into words. QA-консалтинг
+[21.08.2021 16:32:09] : The sentence was divided into words. Техподдержка,production,и,разработки
+[21.08.2021 16:32:09] : The sentence was divided into words. Jira,Service
+[21.08.2021 16:32:09] : The sentence was divided into words. IT-архитектура
+[21.08.2021 16:32:09] : The sentence was divided into words. UX-аудит
+[21.08.2021 16:32:09] : The sentence was divided into words. Внедрение,Битрикс24
+[21.08.2021 16:32:09] : The sentence was divided into words. Технологии
+[21.08.2021 16:32:09] : The sentence was divided into words. Отрасли
+[21.08.2021 16:32:09] : The sentence was divided into words. О,компании
+[21.08.2021 16:32:09] : The sentence was divided into words. Награды
+[21.08.2021 16:32:09] : The sentence was divided into words. Клиенты,и,отзывы
+[21.08.2021 16:32:09] : The sentence was divided into words. Наши,процессы
+[21.08.2021 16:32:09] : The sentence was divided into words. Новости
+[21.08.2021 16:32:09] : The sentence was divided into words. Менеджмент
+[21.08.2021 16:32:09] : The sentence was divided into words. Контакты
+[21.08.2021 16:32:09] : The sentence was divided into words. Социальная,ответственность
+[21.08.2021 16:32:09] : The sentence was divided into words. Работа
+[21.08.2021 16:32:09] : The sentence was divided into words. Вакансии
+[21.08.2021 16:32:09] : The sentence was divided into words. Начало,карьеры
+[21.08.2021 16:32:09] : The sentence was divided into words. Блог
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. Напишите,нам,8-800-200-9924
+[21.08.2021 16:32:09] : The sentence was divided into words. Наш,сайт,использует,файлы,cookie,Оставаясь,на,www,simbirsoft,com,вы,подтверждаете,свое,согласие,на,использование,данных,файлов
+[21.08.2021 16:32:09] : The sentence was divided into words. Карьера,в,IT-компании,SimbirSoft
+[21.08.2021 16:32:09] : The sentence was divided into words. SimbirSoft,заинтересована,в,талантливых,и,перспективных,сотрудниках,поэтому,наши,двери,открыты,для,специалистов,без,опыта,работы,в,IT,но,с,большим,желанием,его,получить,Вы,студент,математик,физик,или,IT-шник,Ваша,работа,не,связана,с,IT,но,программирование,ваше,хобби,Имеете,опыт,работы,в,другой,отрасли,и,решили,начать,с,нуля,в,IT
+[21.08.2021 16:32:09] : The sentence was divided into words. Вы,студент,математик,физик,или,IT-шник
+[21.08.2021 16:32:09] : The sentence was divided into words. Ваша,работа,не,связана,с,IT,но,программирование,ваше,хобби
+[21.08.2021 16:32:09] : The sentence was divided into words. Имеете,опыт,работы,в,другой,отрасли,и,решили,начать,с,нуля,в,IT
+[21.08.2021 16:32:09] : The sentence was divided into words. Начать,просто,Пришлите,нам,свое,резюме,Часто,мы,видим,портрет,человека,и,помогаем,определиться,с,будущей,должностью,Работа,в,ведущей,компании,с,опытным,ментором,поможет,быстро,влиться,в,нашу,команду,Отправить,резюме,Выполните,тестовое,задание,и,разберитесь,в,основах,разработки,ПО,самостоятельно,Мы,дадим,Вам,обратную,связь,Заполните,форму,и,прикрепите,резюме,чтобы,наряду,с,выполнением,ТЗ,мы,могли,оценить,ваш,опыт,Тестовое,задание,Пройдите,IT-практикум,Получайте,базу,теории,и,выполняйте,практические,задания,с,поддержкой,менторов,Направления,Frontend,Backend,Mobile,SDET,QA,Python,DevOps,Дизайн,Перейти
+[21.08.2021 16:32:09] : The sentence was divided into words. Начать,просто
+[21.08.2021 16:32:09] : The sentence was divided into words. Вопрос-ответ,Я,студент,Хватит,ли,мне,вузовских,знаний,для,работы,в,SimbirSoft,У,нас,в,компании,работают,студенты,которые,совмещают,учебу,и,работу,Как,правило,вузовских,знаний,для,работы,недостаточно,В,университетах,дают,отличную,теоретическую,базу,но,мы,всегда,советуем,в,дополнение,к,лекциям,участвовать,в,практических,проектах,олимпиадах,по,программированию,в,Летнем,интенсиве,в,общем,всеми,способами,набираться,практических,навыков,разработки,Что,касается,технологий,-,будет,не,лишним,углубить,свои,знания,на,технологическом,курсе,IT,Place,Сколько,я,буду,зарабатывать,попав,на,стажировку,в,SimbirSoft,SimbirSoft,предлагает,оплату,труда,не,ниже,рыночного,уровня,Попадая,на,стажировку,в,компанию,независимо,от,ваших,знаний,на,старте,Вы,получаете,белую,зарплату,и,можете,пользоваться,всем,набором,возможностей,нашей,компании,Есть,факторы,которые,положительно,влияют,на,размер,вашей,ЗП,на,старте,-,Ваш,опыт,работы,в,целом,и,масштаб,задач,которые,Вы,решали,-,опыт,разработки,ПО,-,владение,английским,на,уровне,upper,intermediate,и,выше,-,положительные,рекомендации,наших,сотрудников,-,победитель,олимпиад,-,уникальная,или,редкая,экспертиза,востребованная,в,компании,Какой,у,меня,будет,график,работы,В,SimbirSoft,гибкий,офисный,график,После,прохождения,испытательного,срока,до,3,месяцев,это,-,либо,40,часов,в,неделю,время,обеда,и,прибывания,в,офисе,Вы,выбираете,сами,-,либо,предмет,договоренностей,внутри,проектной,команды,Но,самое,главное,-,не,пропускать,важные,для,проекта,моменты,митинги,созвоны,с,заказчиком,дэдлайны,и,так,далее,Как,быстро,будет,расти,мой,уровень,дохода,Уровень,заработной,платы,в,СимбирСофт,зависит,от,роста,квалификации,специалиста,стажа,работы,в,компании,личного,вклада,в,успех,проекта,В,каких,проектах,я,буду,принимать,участие,Ознакомиться,с,проектами,Вы,можете,в,разделе,Портфолио
+[21.08.2021 16:32:09] : The sentence was divided into words. Вопрос-ответ
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. ПРИСОЕДИНЯЙСЯ,К,НАМ,Прикрепите,своё,резюме*,Расширения,файла,doc,docx,pdf,png,Максимальный,размер,файла,-,10,Мб,Я,прочитал,Политику,защиты,и,обработки,персональных,данных,и,согласен,с,ней,Отправить
+[21.08.2021 16:32:09] : The sentence was divided into words. ПРИСОЕДИНЯЙСЯ,К,НАМ,Прикрепите,своё,резюме*,Расширения,файла,doc,docx,pdf,png,Максимальный,размер,файла,-,10,Мб,Я,прочитал,Политику,защиты,и,обработки,персональных,данных,и,согласен,с,ней,Отправить
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. ПРИСОЕДИНЯЙСЯ,К,НАМ
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. Я,прочитал,Политику,защиты,и,обработки,персональных,данных,и,согласен,с,ней
+[21.08.2021 16:32:09] : The sentence was divided into words. Отправить
+[21.08.2021 16:32:09] : The sentence was divided into words. Тестовое,задание,Направление*,Java-разработчик,JS-разработчик,QA-специалист,С#-разработчик,Другое,свой,вариант,Прикрепите,файл*,Расширения,файла,doc,docx,pdf,png,Максимальный,размер,файла,-,10,Мб,Я,прочитал,Политику,защиты,и,обработки,персональных,данных,и,согласен,с,ней,Отправить
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. Тестовое,задание
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. Направление*,Java-разработчик,JS-разработчик,QA-специалист,С#-разработчик,Другое,свой,вариант
+[21.08.2021 16:32:09] : The sentence was divided into words. Направление*
+[21.08.2021 16:32:09] : The sentence was divided into words. Java-разработчик
+[21.08.2021 16:32:09] : The sentence was divided into words. JS-разработчик
+[21.08.2021 16:32:09] : The sentence was divided into words. QA-специалист
+[21.08.2021 16:32:09] : The sentence was divided into words. С#-разработчик
+[21.08.2021 16:32:09] : The sentence was divided into words. Другое,свой,вариант
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. Я,прочитал,Политику,защиты,и,обработки,персональных,данных,и,согласен,с,ней
+[21.08.2021 16:32:09] : The sentence was divided into words. Отправить
+[21.08.2021 16:32:09] : The sentence was divided into words. Остались,вопросы,Напишите,нам,Close,Задайте,вопрос,Осталось,2000,символов,Необходимо,выбрать,хотя,бы,один,курс,Я,прочитал,Политику,защиты,и,обработки,персональных,данных,и,согласен,с,ней,Отправить
+[21.08.2021 16:32:09] : The sentence was divided into words. Остались,вопросы
+[21.08.2021 16:32:09] : The sentence was divided into words. Задайте,вопрос,Осталось,2000,символов,Необходимо,выбрать,хотя,бы,один,курс,Я,прочитал,Политику,защиты,и,обработки,персональных,данных,и,согласен,с,ней,Отправить
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. Задайте,вопрос
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. Я,прочитал,Политику,защиты,и,обработки,персональных,данных,и,согласен,с,ней
+[21.08.2021 16:32:09] : The sentence was divided into words. Отправить
+[21.08.2021 16:32:09] : The sentence was divided into words. Решения
+[21.08.2021 16:32:09] : The sentence was divided into words. Для,банков
+[21.08.2021 16:32:09] : The sentence was divided into words. Для,страховых
+[21.08.2021 16:32:09] : The sentence was divided into words. Оценка,IT-проектов
+[21.08.2021 16:32:09] : The sentence was divided into words. Data,Science
+[21.08.2021 16:32:09] : The sentence was divided into words. Автоматизация,бизнеса
+[21.08.2021 16:32:09] : The sentence was divided into words. ShopChat
+[21.08.2021 16:32:09] : The sentence was divided into words. Food,Tech
+[21.08.2021 16:32:09] : The sentence was divided into words. Для,медицинской,сферы
+[21.08.2021 16:32:09] : The sentence was divided into words. Для,промышленности
+[21.08.2021 16:32:09] : The sentence was divided into words. Услуги
+[21.08.2021 16:32:09] : The sentence was divided into words. IT-продукт,под,ключ
+[21.08.2021 16:32:09] : The sentence was divided into words. Аутсорсинг
+[21.08.2021 16:32:09] : The sentence was divided into words. Модернизация,ПО
+[21.08.2021 16:32:09] : The sentence was divided into words. Спасти,продукт
+[21.08.2021 16:32:09] : The sentence was divided into words. Обеспечение,качества
+[21.08.2021 16:32:09] : The sentence was divided into words. QA-консалтинг
+[21.08.2021 16:32:09] : The sentence was divided into words. Техподдержка,production,и,разработки
+[21.08.2021 16:32:09] : The sentence was divided into words. Jira,Service
+[21.08.2021 16:32:09] : The sentence was divided into words. IT-архитектура
+[21.08.2021 16:32:09] : The sentence was divided into words. UX-аудит
+[21.08.2021 16:32:09] : The sentence was divided into words. Внедрение,Битрикс24
+[21.08.2021 16:32:09] : The sentence was divided into words. Портфолио
+[21.08.2021 16:32:09] : The sentence was divided into words. Технологии
+[21.08.2021 16:32:09] : The sentence was divided into words. Отрасли
+[21.08.2021 16:32:09] : The sentence was divided into words. О,нас
+[21.08.2021 16:32:09] : The sentence was divided into words. О,компании
+[21.08.2021 16:32:09] : The sentence was divided into words. Награды
+[21.08.2021 16:32:09] : The sentence was divided into words. Клиенты
+[21.08.2021 16:32:09] : The sentence was divided into words. Наши,процессы
+[21.08.2021 16:32:09] : The sentence was divided into words. Новости
+[21.08.2021 16:32:09] : The sentence was divided into words. Менеджмент
+[21.08.2021 16:32:09] : The sentence was divided into words. Контакты
+[21.08.2021 16:32:09] : The sentence was divided into words. Социальная,ответственность
+[21.08.2021 16:32:09] : The sentence was divided into words. Блог
+[21.08.2021 16:32:09] : The sentence was divided into words. Технологии
+[21.08.2021 16:32:09] : The sentence was divided into words. 1C
+[21.08.2021 16:32:09] : The sentence was divided into words. Android
+[21.08.2021 16:32:09] : The sentence was divided into words. Bitrix
+[21.08.2021 16:32:09] : The sentence was divided into words. C#/,NET
+[21.08.2021 16:32:09] : The sentence was divided into words. C++
+[21.08.2021 16:32:09] : The sentence was divided into words. DevOps
+[21.08.2021 16:32:09] : The sentence was divided into words. Go
+[21.08.2021 16:32:09] : The sentence was divided into words. iOS
+[21.08.2021 16:32:09] : The sentence was divided into words. Java
+[21.08.2021 16:32:09] : The sentence was divided into words. JavaScript
+[21.08.2021 16:32:09] : The sentence was divided into words. PHP
+[21.08.2021 16:32:09] : The sentence was divided into words. Python
+[21.08.2021 16:32:09] : The sentence was divided into words. QA
+[21.08.2021 16:32:09] : The sentence was divided into words. SDET
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. Напишите,нам,Осталось,2000,символов,Прикрепите,файлы,Расширения,файлов,doc,pdf,xls,jpg,png,docx,xlsx,архивы,Максимальный,размер,файла,-,10,Мб,Я,прочитал,Политику,защиты,и,обработки,персональных,данных,и,согласен,с,ней,Отправить
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. Напишите,нам
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. Прикрепите,файлы
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. 
+[21.08.2021 16:32:09] : The sentence was divided into words. Я,прочитал,Политику,защиты,и,обработки,персональных,данных,и,согласен,с,ней
+[21.08.2021 16:32:09] : The sentence was divided into words. Отправить
