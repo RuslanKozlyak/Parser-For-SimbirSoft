@@ -1,8 +1,7 @@
-﻿using System.Collections.Generic;
-using System.Collections;
-using System.Linq;
-using SimbirSoftProj.Core.Log;
+﻿using SimbirSoftProj.Core.Log;
 using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace SimbirSoftProj.Core
 {
@@ -19,12 +18,12 @@ namespace SimbirSoftProj.Core
                 try
                 {
                     if (countedWordsList.Keys.Contains(upstringWord))
-                        countedWordsList[upstringWord]++; 
+                        countedWordsList[upstringWord]++;
                     else
                         countedWordsList.Add(upstringWord, 1);
-                    
+
                 }
-                catch(Exception ex)
+                catch (Exception ex)
                 {
                     Logger.WriteLog($"The word could not be counted due to an error. [ {ex.Message} ]");
                 }
@@ -35,28 +34,28 @@ namespace SimbirSoftProj.Core
         static string[] SeparateWords(string[] text)
         {
             var words = new List<string>();
-            var separators = new char[] { ' ', ',', '.','\'', '!', '?', '"', ';', ':', '[', ']', '(', ')', '«', '»', '—', '\n', '\r', '\t' };
+            var separators = new char[] { ' ', ',', '.', '\'', '!', '?', '"', ';', ':', '[', ']', '(', ')', '«', '»', '—', '\n', '\r', '\t' };
             foreach (var sentence in text)
             {
                 try
                 {
                     var splitedSentence = sentence.Split(separators);
                     var clearedSentence = DeleteWhiteSpace(splitedSentence);
-                    Logger.WriteLog($"The sentence was divided into words. {String.Join(",",clearedSentence)}");
+                    Logger.WriteLog($"The sentence was divided into words. {String.Join(",", clearedSentence)}");
                     foreach (var word in clearedSentence)
                     {
                         words.Add(word);
                     }
                 }
-                catch(Exception ex)
+                catch (Exception ex)
                 {
                     Logger.WriteLog($"The sentence wasn't divided into words. [ {ex.Message} ]");
                 }
             }
             return words.ToArray();
         }
-        
-        static string [] DeleteWhiteSpace(string[] text)
+
+        static string[] DeleteWhiteSpace(string[] text)
         {
             return text.Where(x => !string.IsNullOrWhiteSpace(x)).ToArray();
         }

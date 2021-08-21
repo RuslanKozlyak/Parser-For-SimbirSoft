@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Data.SqlClient;
-using System.Data;
-using SimbirSoftProj.Core.DBConnection;
+﻿using SimbirSoftProj.Core.DBConnection;
 
 namespace SimbirSoftProj.Core
 {
@@ -11,7 +6,7 @@ namespace SimbirSoftProj.Core
     {
         string connectionString = "";
 
-        public ModifiableDBSettings(string servername,string database)
+        public ModifiableDBSettings(string servername, string database)
         {
             connectionString = @$"Data Source={servername};Initial Catalog={database};Integrated Security=True";
         }

@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace SimbirSoftProj.Core.DBConnection
+﻿namespace SimbirSoftProj.Core.DBConnection
 {
     public interface IDBSettings
     {

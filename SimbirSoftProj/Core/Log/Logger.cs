@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 using System.IO;
 namespace SimbirSoftProj.Core.Log
 {
@@ -10,7 +8,7 @@ namespace SimbirSoftProj.Core.Log
         {
             string logPath = "LogFile.txt";
 
-            using(StreamWriter writer = new StreamWriter(logPath, true))
+            using (StreamWriter writer = new StreamWriter(logPath, true))
             {
                 writer.WriteLine($"[{DateTime.Now}] : {message}");
             }

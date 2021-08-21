@@ -4,7 +4,6 @@ using SimbirSoftProj.Core.Log;
 using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 
 namespace SimbirSoftProj.Core.Parsers
 {
@@ -69,7 +68,7 @@ namespace SimbirSoftProj.Core.Parsers
         }
         static bool AreNotNestedList(IElement element)
         {
-            if(element.TagName.ToUpper()=="LI")
+            if (element.TagName.ToUpper() == "LI")
             {
                 string[] listTags = { "UL", "OL", "DL" };
                 foreach (string tag in listTags)
@@ -77,7 +76,7 @@ namespace SimbirSoftProj.Core.Parsers
                         if (child.TagName.ToUpper() == tag)
                             return false;
             }
-                return true;
+            return true;
         }
     }
 }
