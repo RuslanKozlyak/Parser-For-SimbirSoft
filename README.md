@@ -197,8 +197,60 @@ public string ConnectionString
             }
         }
 ```
+<h2>2. Папка "Html"</h2>
 
-<h2>2. Папка "Log"</h2>
+<h3>Класс "HtmlLoader"</h3>
+
+Класс отвечает за подключение к обрабатываемому сайту и получении с него информации. 
+
+Класс имеет два поля. Поле "client" типа "HttpClient", который содержит экземпляр класса, позволяющего отправлять Http-запросы и получать Http-ответы от интернет ресурсов. Поле "url" типа "string" содержащего ссылку на обрабатываемый сайт. 
+
+```
+        HttpClient client;
+        string url;
+```
+
+Класс имеет конструктор с одном параметром "settings" типа "IPArserSettings.При инициализации экземпляра класса также заполняется поле "client", а полу "url" задается знаечение в соответсвии с переданными настройками парсера.
+
+```
+public HtmlLoader(IParserSettings settings)
+        {
+            client = new HttpClient();
+            url = settings.BaseUrl;
+        }
+```
+
+Асинхронный метод "GetSource" позволяет получить Html-код обрабатываемого сайта в виде строки. Сначала на сайт посылается запрос методом "GetAsync". Полученный ответ со всей информацией о сайте, включая html-код записывается в переменную "response". Далее проверяется успешность посланного запроса. Если запрос выполнен успешно, то в переменную source записывается html-код из общей информации ответа сайта.
+
+```
+ublic async Task<string> GetSource()
+        {
+            string source = null;
+            try
+            {
+                var response = await client.GetAsync(url);
+
+                if (response != null && response.StatusCode == HttpStatusCode.OK)
+                {
+                    source = await response.Content.ReadAsStringAsync();
+                    Logger.WriteLog($"Parser was connected to {url}. StatusCode = {response.StatusCode}");
+                }
+                else
+                {
+                    Logger.WriteLog($"Parser wasn't connected to {url}. StatusCode = {response.StatusCode}");
+                }
+
+            }
+            catch (Exception ex)
+            {
+                Logger.WriteLog($"Parser wasn't connected to {url}. [{ex.Message}]");
+            }
+
+            return source;
+        }
+```
+
+<h2>3. Папка "Log"</h2>
 
 <h3>Класс "Logger"</h3>
 
@@ -241,7 +293,7 @@ public interface IParserSettings
     }
 ```
 
-<h3> Класс SimpleParser</h3>
+<h3> Класс "SimpleParser"</h3>
 
 Класс реализует интерфейс "IParser". Он предоставляет функции для парсинга html-страницы и получения текстовой информации её элементов.
 
@@ -420,3 +472,5 @@ public async void Worker()
             }
         }
 ```
+
+
