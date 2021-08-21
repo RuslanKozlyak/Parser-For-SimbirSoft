@@ -372,12 +372,20 @@ public string BaseUrl
         IParser<T> parser;
         IParserSettings parserSettings;
         HtmlLoader loader;
+```
 
+Класс имеет два конструктора. Первый на вход получает один аргумент "parser" типа "IParser".
+
+```
         public ParserWorker(IParser<T> parser)
         {
             this.parser = parser;
         }
+```
 
+Второй имеет два аргумента. Один аргумент "parser" типа "IParser". Второй аргумент "parserSettings" типа "IPArserSettings". При инициализации экземпляра калсса эти конструктором сразу устанавливается значени поля "loader" и происходит подключение к сайту, установленному в настройках парсера.
+
+```
         public ParserWorker(IParser<T> parser, IParserSettings parserSettings)
             : this(parser)
         {
