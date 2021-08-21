@@ -363,3 +363,24 @@ public string BaseUrl
 ```
 
 <h3>Класс "ParserWorker"</h3>
+
+Асинхронный метод "Worker" посылает запрос на обрабатываемый сайт методом "GetSource"(Его описание будет представлено ниже). В результате его работы html-код обрабатываемого сайта записывается в переменную "source" в виде строки. После получения ответа с сайта создается экземпляр класса "HtmlParser" из библиотеки "AngleSharp". С помощью метода "ParseDocumentAsync" из этой библиотеки в переменную "Document" записывается информация о DOM-дереве, полученной парсингом html-кода из переменной "source". Далее из каждого элемента DOM-дерева извлекается текстовая информация, и результат работы метода возвращается с помощью активирования события OnNewData.
+
+```
+public async void Worker()
+        {
+            try
+            {
+                var source = await loader.GetSource();
+                var domParser = new HtmlParser();
+                var document = await domParser.ParseDocumentAsync(source);
+                var result = parser.Parse(document);
+                Logger.WriteLog($"The page was parsed.");
+                OnNewData?.Invoke(result);
+            }
+            catch (Exception ex)
+            {
+                Logger.WriteLog($"The page was not parsed due to an error. [{ex.Message}]");
+            }
+        }
+```
